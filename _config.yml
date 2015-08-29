@@ -1,14 +1,12 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
+title:        JRN-418
+tagline:      'Data Journalism at CCSU JRN-418, Fall 2015'
+description:  'Data Journalism at CCSU, Fall 2015 test'
+url:          http://andhyde.com
+version:      1.1.1
+author:
+  name:       ''
+  email:      ''
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
