@@ -1,7 +1,7 @@
 title:        JRN-418
 tagline:      'Data Journalism at CCSU JRN-418, Fall 2015'
 description:  'Data Journalism at CCSU, Fall 2015 test'
-url:          http://andrewbtran.github.io/JRN-418
+baseurl:      /JRN-418
 version:      1.1.1
 author:
   name:       ''
