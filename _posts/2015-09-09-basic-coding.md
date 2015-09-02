@@ -22,6 +22,7 @@ Read:
 
 #### Exercise 1
 
+[HTML Basics | Codecademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1)
 
 ##### Written critiques:
 

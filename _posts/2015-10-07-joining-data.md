@@ -3,7 +3,6 @@ layout: post
 title: Joining data
 ---
 
-Test test test
 
 #### Links
 

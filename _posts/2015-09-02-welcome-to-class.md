@@ -10,6 +10,8 @@ Introductions
 - https://youtu.be/nq1sscJcZdA
 
 #### Links for workshop
+
+- [Slides for class 1](https://docs.google.com/presentation/d/1nfrZcSZVV7WFgeY8w5hu2NS8O9m9GQ8JgWNSqkgSWRs/edit?usp=sharing)
 - [How to Create a Pivot Table in Google Spreadsheets | The Gooru](http://www.thegooru.com/how-to-create-a-pivot-table-in-google-spreadsheets/)
 
 

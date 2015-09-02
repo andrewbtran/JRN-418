@@ -3,7 +3,6 @@ layout: post
 title: Cleaning data
 ---
 
-Test test test
 
 #### Links
 

@@ -3,7 +3,6 @@ layout: post
 title: Extracting data
 ---
 
-Test test test
 
 #### Links
 
