@@ -1,92 +1,69 @@
-**Hyde 1.x has been deprecated for the upcoming Hyde 2.0, [available here](https://github.com/poole/hyde).**
+#### JRN-418-70: [Data Journalism course](http://andrewbtran.github.io/JRN-418/)
 
+##### Central Connecticut State University
 
-## [Hyde](http://andhyde.com)
+##### Class Time: 
+Wed. 4:30 - 7:30 p.m.
 
-An elegant open source, mobile first theme for [Jekyll](https://github.com/mojombo/jekyll). It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.
+##### Instructor: 
+[Andrew Ba Tran](https://twitter.com/abtran)
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1818325/da6489d8-6ff5-11e3-9b4f-c56b92013e9a.png)
+&nbsp; 
 
+##### Contact Details:
+The best way to reach me is by email at abtran AT gmail.com. My AIM is andrewbatran. I have "open office hours": if you see me online and available, feel free to ask. If my status is anything but available, try email instead.
 
-## Usage
+&nbsp; 
 
-### 1. Install Jekyll
+##### Course Objective: 
+The world that we live in and report on is increasingly influenced by data. This course will help you use data to find and develop stories that can’t be found in other ways. Data can be anything: spreadsheets full of numbers, the text of speeches or the measured observations of daily life. Reporters need to be able to treat data as another source to be researched, interviewed and analyzed, using the right tool for the job. Beginning with spreadsheets and continuing to databases, basic mapping and rudimentary programming, this class will make working with data a part of your skill set.
 
-Hyde is built for use with Jekyll, so naturally you'll need to install that. On Macs, it's rather straightforward:
+This is a skills-based course, so students will need to be comfortable with learning to use computer software beyond word processors. If you are wondering if you can do this stuff, you can. You may prefer interviewing people to data, but avoiding data - particularly for Washington journalists - is no longer an option.
 
-```bash
-$ gem install jekyll
-```
+&nbsp; 
 
-**Windows users:** Windows users have a bit more work to do, but luckily [@juthilo](https://github.com/juthilo) has your back with his [Run Jekyll on Windows](https://github.com/juthilo/run-jekyll-on-windows) guide.
+##### Readings:
 
-You may also need to install Pygments, the Python syntax highlighter for code snippets that plays nicely with Jekyll. Read more about this [in the Jekyll docs](http://jekyllrb.com/docs/templates/#code_snippet_highlighting).
+There are no textbooks for this course. We will have weekly readings chosen from professional data work, government documents, blog posts and other sources. Students will be expected to discuss these readings in class.
 
-### 2a. Quick start
+&nbsp; 
 
-To help anyone with any level of familiarity with Jekyll quickly get started, Hyde includes everything you need for a basic Jekyll site. To that end, just download Hyde and start up Jekyll.
+##### Grading:
 
-### 2b. Roll your own Jekyll site
+Each student’s final grade will be determined by five factors described below. While I will communicate any concerns that I have about individual performance, please do not hesitate to contact me with questions about grading or general performance.
 
-Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Hyde and then copy what you need (likely `_layouts/`, `*.html` files, `atom.xml` for RSS, and `public/` for CSS, JS, etc.).
+&nbsp; 
 
-### 3. Running locally
+##### In-class and homework assignments:
 
-To see your Jekyll site with Hyde applied, start a Jekyll server. In Terminal, from `/hyde` (or whatever your Jekyll site's root directory is named):
+Students will be required to complete exercises involving the use of spreadsheets, databases and other tools both during class and outside of class. It is your responsibility to find computer time for the outside assignments. All assignments are to be handed in at the beginning of each class or can be emailed before class. Late work will be penalized on a sliding scale (the later the assignment, the larger the penalty). A good rule: don’t come to class empty-handed – at the very least, show me that you attempted the assignment. Together these assignments constitute 25 percent of each student’s grade.
 
-```bash
-$ jekyll serve
-```
+&nbsp; 
 
-Open <http://localhost:4000> in your browser, and voilà. You're done.
+##### Written critiques:
 
+Each student will complete two written critiques of professional work that makes extensive use of government data. While you may not be able to replicate the reporters’ work, try to put yourself in their shoes and judge the decisions they made. Think of these as mini-book reviews, although I expect between 500-750 words for each. Combined, these critiques make up 10 percent of each student’s grade.
 
-## Options
+&nbsp; 
 
-Hyde includes a few options, typically applied via classes on the `<body>` element.
+##### Mid-term:
 
-### Themes
+Each student will be responsible for obtaining, analyzing and visualizing a federal government data set assigned to him/her, using methods we’ll cover in class. This assignment constitutes 15 percent of each student’s grade.
 
-As of v1.1, Hyde ships with optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). In Hyde, a theme simply changes the sidebar's background color and the color of links within blog posts. Here's the red theme in action:
+&nbsp; 
 
-![Hyde in red](https://f.cloud.github.com/assets/98681/1818326/da64f56c-6ff5-11e3-9643-7d0c18157dec.png)
+##### Story Memo:
 
-There are eight themes available at this time.
+Students will obtain and analyze federal government data and write a story memo about their findings, rather than writing an actual story. The emphasis is on the process more than the final product, although the memo should reflect the depth of your work. While some in-class project time will be provided, prepare to spend significant time outside class working on this assignment. Each student will be required to hand in a well-written memo describing in detail the work done on the project and the handling of the underlying data. The memo should also address any weaknesses in the data or unexpected events that hampered or improved the process. This project will make up 25 percent of each student’s grade.
 
-![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
+&nbsp; 
 
-To use a theme, add any one of the available theme classes to the `<body>` element like so:
+##### Data Assessment:
 
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
+Each student will, as part of the story memo project, undertake a study of the data offerings of the agency that produced the data set used for the story memo. This study will result in a short paper assessing the scope, quality and accessibility of the agency’s data, how it has been used by journalists and how it could be used. The paper should also identify opportunities for agencies to release or organize data of public interest. This paper constitutes 10 percent of each student’s grade.
 
-To create your own theme, look to the Themes section of [Hyde's CSS](https://github.com/mdo/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+&nbsp; 
 
-### Reverse layout
+##### Attendance and participation:
 
-![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1818324/da6473f8-6ff5-11e3-9315-692e639fb5c7.png)
-
-Hyde's page orientation can be reversed with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-
-
-## Author
-
-**Mark Otto**
-<https://github.com/mdo>
-<https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+Journalism is not a passive activity and requires focus, inquisition and involvement. We will be discussing professional work, writings and data issues every week, and I expect your comments, questions and other contributions to our class. None of this can happen if you don’t show up. If you must miss a class, please try to let the instructor know in advance. You will be responsible for any work you miss.
