@@ -6,8 +6,8 @@ title: Introductions
 Introductions
 
 #### Links for discussion
+- [Cop video](https://youtu.be/nq1sscJcZdA)
 - [Cops among Florida's worst speeders, Sun Sentinel investigation finds - Sun Sentinel](http://www.sun-sentinel.com/news/speeding-cops/fl-speeding-cops-20120211-story.html)
-- https://youtu.be/nq1sscJcZdA
 
 #### Links for workshop
 
