@@ -36,7 +36,7 @@ Read:
 - Create a new README.md file. Write anything you want but show me you know the [basic syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - All repos will be public. However, after you email me your user name, I'll send connect you with a private repo for you to upload future homework assignments.
 
-##### Create a Github account, write a document in Markdown, and upload it to a new repo
+##### Find a government CSV
 - Find an interesting data set and write a memo about its potential.
 - Write 2-3 paragraphs as if you're pitching the story to an editor on so he or she can give you time to work on it.
 - Answer the following questions about the data:

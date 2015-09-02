@@ -80,18 +80,52 @@ Answers to the assignments will be discussed in class. Therefore, late assignmen
 
 ##### Attendance and participation:
 
-Attendance will be taken as seriously as deadlines. 
+Unless you have an excused absence, missing a class will immediately result in a lower grade. If you show up more than 10 minutes late, that will be considered an absence for the day. This also applies to leaving early. If there's a justified reason to miss a part of the class, you must ask for approval before class.
 
-We are going to cover a lot of ground during this course. Each class and homework assignment depends on picking up and understanding what was taught during the previous class. 
+Journalism requires focus and attention to detail, not just showing up. It's OK to use your laptop or phone but if you are not participating in the discussion or following the demos because you're on Snapchat, then I will consider that an absence for the day.
+
+Check with me first if you must be absent. This includes CCSU-related events or obligations. It will be on you to figure out what was missed in class and to catch up.
 
 &nbsp; 
 
+##### Help
+
+Here’s what you need to send me in order to get help:
+
+1. The code you’re writing. 
+“Hello, I've attached data.r, the script I’m trying to get to work.”
+2. What you're trying to make it do.
+“This code is supposed to turn this list into a data frame.”
+3. What is actually happening.
+“I've tried it several different ways but I keep getting a funky error.”
+4. The error message you get, if one shows up.
+“It says Unlisted Error”
+5. Tell me what you've done to problem solve this issue on your own. If there has been no effort then I will not respond except with a link to Google.
+“So I’ve tried googling ‘unlisted error’ and oh wait, StackOverflow.com has the answer. Whoops. Ignore everything I just wrote.”
+
+It is crucial to communicate the previous steps to get quality help with issues that pop up in code. It's a good practice to develop now.
+
+I will respond with clues to point you in the right direction to fixing the issue.
+
+Don't ask me the morning of or at midnight for help. You can, but I do have a full-time job. The earlier you ask me for help the greater the chance I'll be able to respond.
+
+&nbsp; 
+
+##### Do your work
+
+And only your work. It's OK to consult with each other. But doing your own work is the only way you will properly absorb these ideas and skills.
+
+In the newsroom, plagiarism will derail your career. Plus there are consequences within [CCSU](http://www.ccsu.edu/academicintegrity/).
+
+
+
+
 #### Grading:
 
-- Participation: 20%
-- Homework assignments: 25%
-- Mid-term data analysis project: 25%
-- Final data story project: 30%
+- Participation: 20 percent
+- Homework assignments: 25 percent
+- Mid-term data analysis project: 25 percent
+- Final data story project: 30 percent
 
 ###### Mid-term:
 
@@ -99,9 +133,9 @@ Obtain and analyze federal government data and write a summary of the analysis. 
 
 ###### Final:
 
-Each student will be responsible for obtaining, analyzing and visualizing a federal government data set assigned to him/her, using methods learned in class. 
+Each student will be responsible for obtaining, analyzing, visualizing, and writing a story based on a federal government data set, using methods learned in class. 
 
-The breakdown for the final grade will be:
+The breakdown for the final data story will be:
 
 - Pitch (25 percent)
 - Storyboard (12.5 percent)
