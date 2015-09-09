@@ -67,3 +67,16 @@ title: Investigating homicide stats
 <img src="{{ site.url }}/ucr/ucr11.png" align="left" width="100%" />
 
 &nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr12.png" align="left" width="100%" />
+
+&nbsp; 
+
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr13.png" align="left" width="100%" />
+
+&nbsp; 
