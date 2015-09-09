@@ -47,31 +47,20 @@ Read: [Facebook will lose 80% of users by 2017, say Princeton researchers](http:
 
 Read: [City rape statistics, investigations draw concern - Baltimore Sun](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519-story.html)
 
+
 #### Exercise 1
-
-[Faculty & Staff Directory](http://www.ccsu.edu/index/directory.html)
-
-* Search for [the professors](http://www.ccsu.edu/index/directory.html) listed in the Journalism department. 
-* Check the university profile pages (shows up as **website** under their names) if they exist. 
-* Put together a spreadsheet of their information modeled in a way that information about other professors from other departments could be added later.
-* Narrow it down to the common types of information about them. 
-* If some professors do not have the same information listed, but you think the category is important, leave the cell blank.
-* The goal is to structure the spreadsheet in a way for analysis later on.
-* Upload the spreadsheet with the structured professor information to your Github repo.
-
-#### Exercise 2
 
 Make me a Hartford chart by month. I want total and I want ratio like we did for Baltimore and St. Louis.
 
 * [Hartford.Gov - Crime Statistics](http://www.hartford.gov/police/crime-statistics)
 
-#### Exercise 3
+#### Exercise 2
 
 [HTML Basics | Codecademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1)
 
 * Copy and paste the code you used to pass the 14th exercise into an html file and upload it to your GitHub repo. Email me the link.
 
-#### Exercise 4
+#### Exercise 3
 
 * Think of a question or a theme that you'd like to explore. If you already have a data set in mind you'd like to explore, that's also fine. 
 

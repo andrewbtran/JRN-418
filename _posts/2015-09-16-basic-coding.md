@@ -3,6 +3,19 @@ layout: post
 title: Basic coding
 ---
 
+#### Quick exercise
+
+[Faculty & Staff Directory](http://www.ccsu.edu/index/directory.html)
+
+* Search for [the professors](http://www.ccsu.edu/index/directory.html) listed in the Journalism department. 
+* Check the university profile pages (shows up as **website** under their names) if they exist. 
+* Put together a spreadsheet of their information modeled in a way that information about other professors from other departments could be added later.
+* Narrow it down to the common types of information about them. 
+* If some professors do not have the same information listed, but you think the category is important, leave the cell blank.
+* The goal is to structure the spreadsheet in a way for analysis later on.
+* Upload the spreadsheet with the structured professor information to your Github repo.
+
+
 
 #### Links
 
