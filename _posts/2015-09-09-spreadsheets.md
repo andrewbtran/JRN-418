@@ -37,7 +37,7 @@ title: Thinking about data analysis
 
 * [NYC Police Union Chief Blames Mayor, Protesters For Police Killings](http://www.huffingtonpost.com/2014/12/20/new-york-police-union-mayor_n_6361046.html)
 
-
+* [Investigating homicide stats](http://andrewbtran.github.io/JRN-418/homicide_stats)
 
 
 ### Assignments for Sept. 16
