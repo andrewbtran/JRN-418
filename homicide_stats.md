@@ -9,3 +9,61 @@ title: Investigating homicide stats
 
 &nbsp; 
 
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr2.png" align="left" width="100%" />
+
+&nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr3.png" align="left" width="100%" />
+
+&nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr4.png" align="left" width="100%" />
+
+&nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr5.png" align="left" width="100%" />
+
+&nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr6.png" align="left" width="100%" />
+
+&nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr7.png" align="left" width="100%" />
+
+&nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr8.png" align="left" width="100%" />
+
+&nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr9.png" align="left" width="100%" />
+
+&nbsp; 
+##### Extrapolation formula... **numbers so far/(months so far/total months)**
+
+<img src="{{ site.url }}/ucr/ucr10.png" align="left" width="100%" />
+
+&nbsp; 
+
+##### Next
+
+<img src="{{ site.url }}/ucr/ucr11.png" align="left" width="100%" />
+
+&nbsp; 
