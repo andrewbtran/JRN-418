@@ -55,6 +55,6 @@ Read:
   *  Who's responsible for maintaining it?
 
 - Summarize the spreadsheet two different ways using pivot tables
-- Upload the spreadsheet, memo, and pivot table sheet analysis to your new Github repo ([Tutorial on Getting started with the Github desktop app](/github_app))
+- Upload the spreadsheet, memo, and pivot table sheet analysis to your new Github repo ([Tutorial on Getting started with the Github desktop app]({{ site.url }}/github_app))
 
 #####Due Sept. 9 before 2 p.m.
