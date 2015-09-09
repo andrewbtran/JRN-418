@@ -5,6 +5,8 @@ title: Thinking about data analysis
 
 ##### Links with data viz
 
+* [How to Lie, Cheat, Manipulate, and Mislead using Statistics and Visualizations](http://andrewbtran.github.io/JRN-418/lie-manipulate-cheat)
+
 * [Crime up after Ferguson and more police needed, top St. Louis area chiefs say](http://www.stltoday.com/news/local/crime-and-courts/crime-up-after-ferguson-and-more-police-needed-top-st/article_04d9f99f-9a9a-51be-a231-1707a57b50d6.html)
 
 * [The Reinhart and Rogoff Controversy: A Summing Up - The New Yorker](http://www.newyorker.com/news/john-cassidy/the-reinhart-and-rogoff-controversy-a-summing-up)
