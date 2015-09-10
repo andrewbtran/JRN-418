@@ -3,9 +3,11 @@ layout: post
 title: Thinking about data analysis
 ---
 
-##### Links with data viz
+##### Links from lectures/walkthroughs
 
 * [How to Lie, Cheat, Manipulate, and Mislead using Statistics and Visualizations](http://andrewbtran.github.io/JRN-418/lie-manipulate-cheat)
+
+* [Investigating homicide stats](http://andrewbtran.github.io/JRN-418/homicide_stats/)
 
 * [Crime up after Ferguson and more police needed, top St. Louis area chiefs say](http://www.stltoday.com/news/local/crime-and-courts/crime-up-after-ferguson-and-more-police-needed-top-st/article_04d9f99f-9a9a-51be-a231-1707a57b50d6.html)
 
@@ -50,9 +52,14 @@ Read: [City rape statistics, investigations draw concern - Baltimore Sun](http:/
 
 #### Exercise 1
 
-Make me a Hartford chart by month. I want total and I want ratio like we did for Baltimore and St. Louis.
+Make me a St. Louis chart by month. I want total and I want ratio like we did for Baltimore.
 
-* [Hartford.Gov - Crime Statistics](http://www.hartford.gov/police/crime-statistics)
+* Tutorial: [What we did in class: Investigating homicide stats](http://andrewbtran.github.io/JRN-418/homicide_stats/)
+
+* Data: [Post-Dispatch](http://www.stltoday.com/news/local/stl-info/st-louis-crime-reports-for/html_9ffe4219-05aa-526d-92a1-3661d6b66842.html?appSession=801765812861063&RecordID=&PageID=2&PrevPageID=1&cpipage=3&CPISortType=&CPIorderBy=)
+
+* Data: [St. Louis police department](http://www.slmpd.org/Crimereports.shtml)
+
 
 #### Exercise 2
 
