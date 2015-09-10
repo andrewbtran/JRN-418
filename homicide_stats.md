@@ -398,7 +398,7 @@ So what does this chart say?
 
 The ratio for homicides was up in August in 2014 compared to 2013. But then it appears that it went down after.
 
-This goes against the theory that the Michael Brown killing in Ferguson and riots that occurred afterward had the effect of increased homicides. At least in 2014.
+This goes against the theory that the Michael Brown killing in Ferguson and riots that occurred afterward had the effect of increased homicides. At least in Baltimore in 2014.
 
 Now try it with the St. Louis homicide data. Is there any evidence in that town to support the theory?
 
