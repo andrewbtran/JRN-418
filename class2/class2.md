@@ -40,6 +40,15 @@ It deals with all aspects of this, including the
 - analysis and
 - interpretation of data
 
+It deals with all aspects of this, including the
+<ul>
+<li>collection</li>
+<li>analysis and</li>
+<li>interpretation of data</li>
+</ul>
+
+
+
 Collection of Data
 ========================================================
 
