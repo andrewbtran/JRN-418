@@ -52,7 +52,7 @@ Read: [City rape statistics, investigations draw concern - Baltimore Sun](http:/
 
 #### Exercise 1
 
-Make me a St. Louis chart by month. I want total and I want ratio like we did for Baltimore.
+Make me a St. Louis chart by month. I want total and I want ratio like we did for Baltimore. Save the chart as an image and upload it to your private repo. Email me the link.
 
 * Tutorial: [What we did in class: Investigating homicide stats](http://andrewbtran.github.io/JRN-418/homicide_stats/)
 
