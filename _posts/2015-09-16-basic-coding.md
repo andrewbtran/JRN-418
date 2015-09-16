@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic coding
+title: Digging for a story in data
 ---
 
 ##### QUIZ
@@ -16,6 +16,9 @@ title: Basic coding
 * [Facebook earnings](http://files.shareholder.com/downloads/AMDA-NJ5DZ/75562925x0x822961/fd718a09-c312-4605-9a17-1d6ef07bdd5a/FB_Q115EarningsSlides.pdf)
 
 * [Analysis: The Baltimore Sun's City rape statistics, investigations draw concern story](http://andrewbtran.github.io/JRN-418/class3/baltimore.html)
+
+* [Intro to Plot.ly](http://andrewbtran.github.io/JRN-418/class3/plotly.html)
+
 
 #### Download links
 

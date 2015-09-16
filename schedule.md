@@ -9,7 +9,7 @@ Note: This outline is subject to change; if it does, students will be notified.
 
 * September 2 - [Welcome to class]({{ site.url }}/{% post_url 2015-09-02-welcome-to-class %})
 * September 9 - [Working with spreadsheets]({{ site.url }}/2015/09/09/spreadsheets/)
-* September 16 - [Basic coding]({{ site.url }}/2015/09/16/basic-coding/)
+* September 16 - [Digging for a story in data]({{ site.url }}/2015/09/16/basic-coding/)
 * September 23 - [Extracting data]({{ site.url }}/2015/09/23/extracting-data/)
 * September 30 - [Cleaning data]({{ site.url }}/2015/09/30/cleaning-data/)
 * October 7 - [Joining data]({{ site.url }}/2015/10/07/joining-data/)
