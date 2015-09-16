@@ -18,6 +18,8 @@ title: Digging for a story in data
 
 * [Intro to Plot.ly](http://andrewbtran.github.io/JRN-418/class3/plotly.html)
 
+* ß[Data for plotly exercise](https://docs.google.com/spreadsheets/d/1G75F8jAuj-9r-y5r4JMM5UV6-RYyXBVcWbJ5puxqTPI/edit#gid=0)
+
 ##### Links from lectures/walkthroughs
 * [Facebook’s decline in popularity: A viral research paper doesn’t prove its case.](http://www.slate.com/articles/business/moneybox/2014/01/facebook_s_decline_in_popularity_a_viral_research_paper_doesn_t_prove_its.single.html)
 
