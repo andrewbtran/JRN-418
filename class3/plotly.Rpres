@@ -1,3 +1,16 @@
+<style>
+.wide {
+  width:100%;
+  padding-left:5%;
+  padding-right:5%;
+}
+.midcenter {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+</style>
+
 Introduction to Plotly
 ========================================================
 author: Andrew Tran
