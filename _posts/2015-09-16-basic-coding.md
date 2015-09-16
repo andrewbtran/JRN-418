@@ -8,16 +8,22 @@ title: Digging for a story in data
 * Open this dataset: [Vehicle Repairs | Open Data | State of Connecticut](https://data.ct.gov/Government/Vehicle-Repairs/eren-euca)
 * Fill out this form. Only 4 questions: [Class 3 quiz](https://docs.google.com/forms/d/144WtyMg9xO4Wr2q-YkeEBqwL7JEq-HamTXwdrGc3LE8/viewform)
 
-##### Links from lectures/walkthroughs
-* [Facebook’s decline in popularity: A viral research paper doesn’t prove its case.](http://www.slate.com/articles/business/moneybox/2014/01/facebook_s_decline_in_popularity_a_viral_research_paper_doesn_t_prove_its.single.html)
+##### Slides and walkthroughs
+
+* [Class 3 intro](http://andrewbtran.github.io/JRN-418/class3/class3intro.html)
 
 * [Facebook declining?](http://andrewbtran.github.io/JRN-418/homicide_stats/)
-
-* [Facebook earnings](http://files.shareholder.com/downloads/AMDA-NJ5DZ/75562925x0x822961/fd718a09-c312-4605-9a17-1d6ef07bdd5a/FB_Q115EarningsSlides.pdf)
 
 * [Analysis: The Baltimore Sun's City rape statistics, investigations draw concern story](http://andrewbtran.github.io/JRN-418/class3/baltimore.html)
 
 * [Intro to Plot.ly](http://andrewbtran.github.io/JRN-418/class3/plotly.html)
+
+##### Links from lectures/walkthroughs
+* [Facebook’s decline in popularity: A viral research paper doesn’t prove its case.](http://www.slate.com/articles/business/moneybox/2014/01/facebook_s_decline_in_popularity_a_viral_research_paper_doesn_t_prove_its.single.html)
+
+* [Facebook earnings](http://files.shareholder.com/downloads/AMDA-NJ5DZ/75562925x0x822961/fd718a09-c312-4605-9a17-1d6ef07bdd5a/FB_Q115EarningsSlides.pdf)
+
+
 
 
 #### Download links
