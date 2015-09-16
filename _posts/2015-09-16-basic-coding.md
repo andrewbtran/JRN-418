@@ -3,58 +3,43 @@ layout: post
 title: Basic coding
 ---
 
-#### Quick exercise
+##### QUIZ
 
-[Faculty & Staff Directory](http://www.ccsu.edu/index/directory.html)
+* Open this dataset: [Vehicle Repairs | Open Data | State of Connecticut](https://data.ct.gov/Government/Vehicle-Repairs/eren-euca)
+* Fill out this form. Only 4 questions: [Class 3 quiz](https://docs.google.com/forms/d/144WtyMg9xO4Wr2q-YkeEBqwL7JEq-HamTXwdrGc3LE8/viewform)
 
-* Search for [the professors](http://www.ccsu.edu/index/directory.html) listed in the Journalism department. 
-* Check the university profile pages (shows up as **website** under their names) if they exist. 
-* Put together a spreadsheet of their information modeled in a way that information about other professors from other departments could be added later.
-* Narrow it down to the common types of information about them. 
-* If some professors do not have the same information listed, but you think the category is important, leave the cell blank.
-* The goal is to structure the spreadsheet in a way for analysis later on.
-* Upload the spreadsheet with the structured professor information to your Github repo.
+##### Links from lectures/walkthroughs
+* [Facebook’s decline in popularity: A viral research paper doesn’t prove its case.](http://www.slate.com/articles/business/moneybox/2014/01/facebook_s_decline_in_popularity_a_viral_research_paper_doesn_t_prove_its.single.html)
+
+* [Facebook declining?](http://andrewbtran.github.io/JRN-418/homicide_stats/)
+
+* [Facebook earnings](http://files.shareholder.com/downloads/AMDA-NJ5DZ/75562925x0x822961/fd718a09-c312-4605-9a17-1d6ef07bdd5a/FB_Q115EarningsSlides.pdf)
+
+* [Analysis: The Baltimore Sun's City rape statistics, investigations draw concern story](http://andrewbtran.github.io/JRN-418/class3/baltimore.html)
+
+#### Download links
+
+* Mac - [Sublime Text](http://www.sublimetext.com/2)
+* PC - [Notepad++ v6.8.3 ](https://notepad-plus-plus.org/download/v6.8.3.html)
 
 
-
-#### Links
-
-http://multimedia.journalism.berkeley.edu/tutorials/cleaning-data/
-
-#### Assignments for Sept. 23
+### Assignments for Sept. 23
 
 Read: [How We Made "Faces of Death Row"](https://source.opennews.org/en-US/articles/how-we-made-faces-death-row/)
-Read: 
-Read: 
 
-#### Exercise 1
+Read: [The Pulitzer Prizes | Part 1: The money prison](http://www.pulitzer.org/archives/8836)
 
-Critique a piece of data journalism
-Due by next class
-Find a story that purports to use data, read it, and answer the following questions:
+### Exercise 1
 
-What are the datasets used here, and where did they come from?
-What is the “birth story” of the data, e.g. how were they created in the first place?
-What claims does the story make based on the data?
-What are the limitations of the data?
-Can you find where this (original) data exists online? If so, post the relevant URLs. Write this memo in Markdown format and post it to your private Github repo. If this hasn’t been set up for you, then just email it to me.
-Here’s an example memo. View it raw on Github to see the actual Markdown.
+Using [Plotly](https://plot.ly/), make a bar chart counting the top 5 of something in one of these data sets.
 
-Here are examples of data-based stories that you can use for this assignment if you don’t want to look for your own:
+* [School languages | Open Data | State of Connecticut](https://data.ct.gov/Education/School-languages/gyrg-ku5c)
+* [State Licenses and Credentials | Open Data | State of Connecticut](https://data.ct.gov/Business/State-Licenses-and-Credentials/ngch-56tr)
+* [Police Incidents 01012005 to Current | Open Data | City of Hartford](https://data.hartford.gov/Public-Safety/Police-Incidents-01012005-to-Current/889t-nwfu)
+* [District Enrollment: 2013-14 | Open Data | State of Connecticut](https://data.ct.gov/Education/District-Enrollment-2013-14/bb6g-79yj)
 
-Drugging Our Kids - San Jose Mercury News
-Unseen Toll: Wages of Millions Seized to Pay Past Debts - ProPublica
-When Caregivers Harm: - ProPublica
-Water’s edge: the crisis of rising sea levels - Reuters
-Children and Guns: The Hidden Toll New York Times
-Sliver of Medicare Doctors Get Big Share of Payouts - New York Times
-The Undeserving Poor - Reuters
-Stop and Seize - Washington Post
-LAPD misclassified nearly 1,200 violent crimes as minor offenses - Los Angeles Times
-Child-care scams rake in thousands - Milwaukee Journal Sentinel
-‘Stop-and-Frisk’ Is All but Gone From New York - New York Times
-#### Exercise 2
+### Exercise 2
 
 [HTML Basics II | Codecademy](https://www.codecademy.com/courses/web-beginner-en-y2Yjd/0/1)
 
-[HTML Basics III | Codecademy](https://www.codecademy.com/courses/web-beginner-en-f8mcL/0/1)
+* Copy and paste the code you used to pass the 14th exercise into an html file and upload it to your GitHub repo. Email me the link.

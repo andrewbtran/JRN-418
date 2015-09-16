@@ -1,0 +1,335 @@
+<style>
+.wide {
+  width:100%;
+  padding-left:5%;
+  padding-right:5%;
+}
+.midcenter {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+</style>
+
+
+Analysis: The Baltimore Sun's City rape statistics, investigations draw concern story
+========================================================
+author: Andrew Tran
+date: September 16, 2015
+
+What if there's no data?
+========================================================
+
+In our first class we looked at how journalists started with no data and figured out a way to answer the question they had 
+* [How often do cops drive at dangerous speeds?]((http://www.ire.org/blog/ire-news/2013/04/15/how-sun-sentinel-reported-its-pulitzer-prize-winni/)
+* If the data you want doesn't exist, is there another data set that indirectly answers that question? 
+
+Where's the data?
+========================================================
+
+In our second class we thought about where to find data that was the basis of a newspaper column. 
+* [How to investigae homicide stats](http://andrewbtran.github.io/JRN-418/homicide_stats/)
+* Who would collect that data? and why?
+* Is there someone who collects it at an aggregate level?
+* How can you get that data?
+* Is it reliable? 
+* Using **site:website.com** for more specific searches
+
+What if the data is flawed?
+========================================================
+
+Today we're looking at the data that exists, but upon closer inspection, seems to be innacurate through miscounting or possibly blatant manipulation.
+
+<div class="wide">
+<img src="bmore1.png" style="width:100%"></img>
+</div>
+
+City rape statistics, investigations draw concern
+========================================================
+
+* What is the premise of the story? 
+* What did they base their analysis on?
+* What was the data compared to?
+
+City rape statistics, investigations
+========================================================
+
+* For last four years, Baltimore PD recorded the highest percentage of rape cases that officers conclude are false or baseless of any city in the country
+* More than 30 percent of the cases investigated by detectives each year are deemed unfounded, five times the national average. 
+* In 4 of 10 emergency calls to police involving allegations of rape, officers conclude that there is no need for a further review, so the case never makes it to detectives — a proportion that experts say is disturbingly high.
+* The increase in unfounded cases comes as the number of rapes reported by Baltimore police has plunged —from 684 in 1995 to 158 last year, a decline of nearly 80 percent. Nationally, FBI reports indicate that rapes have fallen 8 percent over the same period.
+
+Retracing the reporter's process
+========================================================
+* He started with the same flawed data that was public and accessible to polic eand politicians but overlooked.
+* Useful to see the variety and scope of comparison and investigation used to build his case.
+
+A dramatic and strange decline
+========================================================
+In the year 2009, the Baltimore police reported 158 rapes. 
+
+First question when presented a number is asking: **how significant is 158?** 
+
+* Is that *normal* for Baltimore with its number of residents? *More? Less?*
+
+Like we did when we analyzed homicide numbers, the easiest way to check is to put the number in **historical context**.
+
+Compare 2009's 158 rapes with years before it.
+
+Decline since 2000
+========================================================
+
+<div class="wide">
+<img src="bmore2.png" style="width:100%"></img>
+</div>
+
+Just looking at the prior decade, it looks like **158** is in the norm since 2002. 
+
+However, there is a noticeable drop since 2000.
+
+Look back farther
+========================================================
+
+<div class="wide">
+<img src="bmore3.png" style="width:100%"></img>
+</div>
+
+It looks like Baltimore's seen a drastic drop since the '80s and '90s.
+
+A high of 749 in 1992 compared to 159 in 2009?
+
+That's an 80 percent drop.
+
+Is that significant in context?
+
+Where should you go?
+
+Flashback!
+========================================================
+
+<div class="wide">
+<img src="bmore4.png" style="width:100%"></img>
+</div>
+
+http://www.ucrdatatool.gov/Search/Crime/Crime.cfm
+
+Look up rape stats **US-Total** for 1992 and 2009 just like Baltimore.
+
+Timeout!
+========================================================
+
+**FORMULA CHECK**
+
+How do you calculate percent change? 
+
+(Value 2 - Value 1/ Value 1) * 100 = Percent Change
+
+* [Mr. Math Generator](http://patrickgarvin.com/math/)
+
+Flashback!
+========================================================
+
+
+According to the FBI, there were 109,062 rapes in 1992 versus 89,241 in 2009.
+
+So (109062-89241/89241) x 100 = **18 percent drop**.
+
+OK, what about adjusting for population?
+========================================================
+
+If Baltimore's population shrank by 80 percent, that would explain the 80 percent drop in rapes. Google it.
+
+<div class="wide">
+<img src="bmore5.png" style="width:80%"></img>
+</div>
+
+Hamsterdam
+========================================================
+
+What if Baltimore PD just got **really** good at their jobs?
+
+How would you check that with data?
+
+What could you compare?
+
+Back to the UCR
+========================================================
+
+http://www.ucrdatatool.gov/Search/Crime/Crime.cfm
+
+<div class="wide">
+<img src="bmore6.png" style="width:80%"></img>
+</div>
+
+Larger agencies > Single agency reported crime > Cities from 500,000 thru 999,999 > MD - Baltimore City Police Dept > Violent crime rates > 1985 - 2012
+
+Chart out 1985 - 2009 murders and rapes (rate) in Google Sheets
+
+Homicides vs rapes rate in Baltimore
+========================================================
+
+<div class="wide">
+<img src="bmore7.png" style="width:80%"></img>
+</div>
+
+Murder to rape ratio in all cities? 
+========================================================
+
+http://www.ucrdatatool.gov/Search/Crime/Crime.cfm
+
+<div class="wide">
+<img src="bmore8.png" style="width:80%"></img>
+</div>
+
+Larger agencies > One year of data > Cities from 500,000 thru 999,999 > Select all departments > Violent crime rates > 2009
+
+Murder to rape ratio in all cities? 
+========================================================
+
+Formula time.
+
+Ratio is Rape/Murders.
+
+Where does Baltimore rank?
+
+
+Ratio
+========================================================
+
+<div class="wide">
+<img src="bmore9.png" style="width:100%"></img>
+</div>
+
+Baltimore's rape to homicides statistic is so low that it's one of the few cities in which there are more homicides than rape reports.
+
+> More homicides than rapes: Nationally, there are five rapes for every murder committed. Out of 272 cities with a population of 100,000 or more, Baltimore is one of five recording more murders than rapes in 2009.
+
+Volume and handling of rape calls
+========================================================
+
+If the  number of sexual assault reports had really dropped, then the reports detectives would drop, but also the calls reporting them. 
+
+<div class="wide">
+<img src="bmore10.png" style="width:70%"></img>
+</div>
+
+FOIA - Freedom of Information Act
+========================================================
+
+The Sun couldn't get the number of 911 calls tied to rapes before 2003, so can't see if there's a correlating drop in reports.
+
+However, they were able to get more specific details for timeperiod of data they got, revealing: 
+
+> that **four in 10 calls** to 911 during [the past 5 years] never made it to detectives specializing in sex crimes, having been dismissed by police officers at the scene with no report taken.
+
+At the scene
+========================================================
+
+<div class="wide">
+<img src="bmore11.png" style="width:40%"></img>
+</div>
+
+At the scene
+========================================================
+
+For the reports that eventually reached Baltimore detectives, 
+
+> marked **unfounded** by detectives, meaning police believed the victim was lying.
+
+<div class="wide">
+<img src="bmore12.png" style="width:80%"></img>
+</div>
+
+Baltimore lead the country in this statistic
+========================================================
+
+Going back to at least 2004.
+
+<div class="wide">
+<img src="bmore13.png" style="width:80%"></img>
+</div>
+
+The question
+========================================================
+>"Why is it that women in the greater Baltimore area are more disposed to lying about sexual assault than anyplace else in America?" asked Branson of Turn Around. "Is it in the water? What exactly would make us the ones most likely to tell a story about being sexually assaulted?"
+
+Reasons
+========================================================
+
+Interviews with detectives: more "unfounded" reports was because of [better police work](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519,0,2195896,full.story).
+
+> Current and former sex offense detectives in Baltimore defended their investigations. Part of their mission, they say, involves rooting out illegitimate complaints that in the past would result in wasted effort and false arrests.
+
+and 
+> "The bottom line is, the case is only unfounded when the investigative facts prove the crime did not occur," said Uzarowski, who retired from the department this month. "It's not an opinion. It's not anything other than where the facts fall."
+
+How can you measure that?
+========================================================
+
+Dig deeper.
+
+The reporter analyzed the rape report numbers by *individual detectives*.
+
+> The Baltimore squad that investigates sexual assaults and child abuse comprises 50 detectives. One of them, Detective Anthony Faulk Jr., is responsible for one-fifth of the unfounded reports, shelving 14 cases last year, including the alleged attack in midtown. No other detective had more than six such cases, and some have none. Attempts to reach Faulk through the department and police union were unsuccessful.
+
+Closer. But still not conclusive.
+========================================================
+
+But it does raise some doubt about better police work being the answer.
+
+If the drop was due to better police work, how can one detective affect such a lopsided rate?
+
+Luck? He's doing a better job? 
+
+Or, as critics charge, **no standard for evaluating rape claims exist** thus making it easier for detectives to dismiss valid cases.
+
+After the story
+========================================================
+
+* Confronted with those numbers, the then-head of the Baltimore Police Department's sex offense unit said the city's high number of unfounded rape claims was indicative of an overabundance of services offered to troubled women.
+* The Mayor, however, responded to the newspaper's report by ordering an audit covering 18 months. 
+* Review found that half the "unfounded" reports should have been classified as rapes or other sex offenses, and should have been investigated.
+* Police Commissioner said he had been too focused on gun crime and said the city had "failed" women.
+
+The effects
+========================================================
+
+* One year later, the number of rapes being reported went up more than 50 percent.
+* 8 out of 11 detectives and supervisors in that united were reassigned.
+* Full-time city position created.
+* City expanded an existing Sexual Assault Response Team.
+* [Baltimore police report progress in rape investigations - Baltimore Sun](http://www.baltimoresun.com/news/bs-md-ci-sex-offense-changes-20110630-story.html)
+* Police Commissioner admitted there was a "crisis": 
+
+> I can't tell you that we would have seen that by yourselves.
+
+
+Tracking the change
+========================================================
+
+* Go back to your spreadsheet, chart out all the way to 2012 now.
+
+<div class="wide">
+<img src="bmore15.jpg" style="width:30%"></img>
+</div>
+
+A difficult crime to track
+========================================================
+
+>Rape is different from other crimes. Not only does it involve a violation more profound than any other crime but it also comes with a social stigma that forces victims to relive the pain again and again. No one suggests that a victim of a carjacking was really asking for it. No one asks whether an assault might really have been consensual. When a robbery victim is on the witness stand, the most private details of her life are not dissected under cross examination.
+
+Tracking the change
+========================================================
+
+Look at that gap. How many valid accusations were dismissed? How many more would be ignored if not for the Sun's investigation?
+
+<div class="wide">
+<img src="bmore14.png" style="width:80%"></img>
+</div>
+
+Takeaways
+========================================================
+
+All this data, some good, some unreliable, were accessible to all levels of authority.
+
+**But just because it's there doesn't mean it's *known* or *understood*.** 
