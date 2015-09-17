@@ -12,7 +12,7 @@ title: Digging for a story in data
 
 * [Class 3 intro](http://andrewbtran.github.io/JRN-418/class3/class3intro.html)
 
-* [Facebook declining?](http://andrewbtran.github.io/JRN-418/class3.html)
+* [Facebook declining?](http://andrewbtran.github.io/JRN-418/class3/class3.html)
 
 * [Analysis: The Baltimore Sun's City rape statistics, investigations draw concern story](http://andrewbtran.github.io/JRN-418/class3/baltimore.html)
 
