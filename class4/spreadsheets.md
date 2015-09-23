@@ -106,14 +106,6 @@ The thing in common with all these data formats?
 ========================================================
 Though modern spreadsheet software usually has complicated file formats, data, at its core, is just **text**.
 
-Quick exercise
-========================================================
-
-Spreadsheet that I can match with...
-Fuck...
-
-Ok
-
 Why am I obsessed with data structure? 
 ========================================================
 
