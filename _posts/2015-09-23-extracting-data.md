@@ -5,10 +5,10 @@ title: Come together- Joining data
 
 ##### Slides and walkthroughs
 
-* [Structure of Data]({{ site.url }}class4/structureofdata.html)
+* [Structure of Data]({{ site.url }}/class4/structureofdata.html)
 * [Tutorial on Getting started with the Github desktop app]({{ site.url }}/github_app)
-* [Bristol Herald Courier lesson]({{ site.url }}class4/bristol.html)
-* [Joining data walkthrough]({{ site.url }}class4/joining)
+* [Bristol Herald Courier lesson]({{ site.url }}/class4/bristol.html)
+* [Joining data walkthrough]({{ site.url }}/class4/joining)
 
 #### Download useful free stuff
 
@@ -50,7 +50,11 @@ This will hopefully set you on the path toward thinking of data as soon as possi
 
 ### Homework 2
 
-JOIN NUMBER OF SOMETHING WITH POPULATION COUNT??
+**Join two spreadhseets using Google Fusion Tables**
+
+1. Find the number of liquor stores by town. You'll have to make a pivot table based on this data [Licensed Package Store Liquor Retailers](https://data.ct.gov/Business/Licensed-Package-Store-Liquor-Retailers/3ws5-dy44)
+2. Merge it with the town population data -[2010 Population By Town](https://data.ct.gov/Government/2010-Population-By-Town/vnar-mt35)
+3. Download and then upload the joined CSV to your GitHub repo. Email me the link to the CSV file in your repo.
 
 
 Assignments due before 2 p.m. on Sept. 30.
