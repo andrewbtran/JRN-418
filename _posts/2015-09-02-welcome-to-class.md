@@ -30,7 +30,7 @@ Read:
 
 - [The Big Conundrum: Should Journalists Learn Code? - American Journalism Review](http://ajr.org/2014/09/24/should-journalists-learn-code/)
 
-#### Exercises
+#### Homework
 
 ##### Create a Github account, write a document in Markdown, and upload it to a new repo
 - Sign up for a [Github account](https://github.com/join).

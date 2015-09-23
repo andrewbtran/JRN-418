@@ -50,7 +50,7 @@ Read: [Facebook will lose 80% of users by 2017, say Princeton researchers](http:
 Read: [City rape statistics, investigations draw concern - Baltimore Sun](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519-story.html)
 
 
-#### Exercise 1
+#### Homework 1
 
 Make me a St. Louis chart by month. I want total and I want ratio like we did for Baltimore. Save the chart as an image and upload it to your private repo. Email me the link.
 
@@ -61,13 +61,13 @@ Make me a St. Louis chart by month. I want total and I want ratio like we did fo
 * Data: [St. Louis police department](http://www.slmpd.org/Crimereports.shtml)
 
 
-#### Exercise 2
+#### Homework 2
 
 [HTML Basics | Codecademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1)
 
 * Copy and paste the code you used to pass the 14th exercise into an html file and upload it to your GitHub repo. Email me the link.
 
-#### Exercise 3
+#### Homework 3
 
 * Think of a question or a theme that you'd like to explore. If you already have a data set in mind you'd like to explore, that's also fine. 
 

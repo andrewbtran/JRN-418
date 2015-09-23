@@ -1,45 +1,57 @@
 ---
 layout: post
-title: Extracting data
+title: Come together- Joining data
 ---
 
+##### Slides and walkthroughs
 
-#### Links
+* [Structure of Data]({{ site.url }}class4/structureofdata.html)
+* [Tutorial on Getting started with the Github desktop app]({{ site.url }}/github_app)
+* [Bristol Herald Courier lesson]({{ site.url }}class4/bristol.html)
+* [Joining data walkthrough]({{ site.url }}class4/joining)
 
-#### Assignments for Sept. 30
+#### Download useful free stuff
 
-Read:
-Read: 
-Read: 
+* Plain text editor for Mac - [Sublime Text](http://www.sublimetext.com/2)
+* Plain text editor for PC - [Notepad++ v6.8.3 ](https://notepad-plus-plus.org/download/v6.8.3.html)
+* A better browser. Install Chrome. - [Chrome Browser](https://www.google.com/chrome/browser/desktop/)
 
-#### Exercise 1
+#### Sign up for useful free stuff
 
-[HTML Basics III | Codecademy](https://www.codecademy.com/courses/web-beginner-en-f8mcL/0/1)
+* [Investigative Reporters and Editors | Subscribe to NICAR-L](https://www.ire.org/resource-center/listservs/subscribe-nicar-l/)
+* [GitHub Student Developer Pack - GitHub Education](https://education.github.com/pack)
 
-* Copy and paste the code you used to pass the 14th exercise into an html file and upload it to your GitHub repo. Email me the link.
+### Assignments for Sept. 30
 
-#### Exercise 2
+Read: [Data Hygene](https://github.com/veltman/learninglunches/tree/master/datahygiene)
 
-Critique a piece of data journalism
-Find a story that purports to use data, read it, and answer the following questions:
+Read: [Fewer students, professors at Connecticut state and community colleges | TrendCT](http://trendct.org/2015/05/21/fewer-students-professors-at-connecticut-state-and-and-community-colleges/)
 
-* What data was used in the story? 
-* Where'd the data come from? 
-* Why was the data collected in the first place?
-* What conclusions does the story come to based ont he data?
-* What are the limits to the data?
-* Is the original somewhere online? If so, post the link.
+### Homework 1
 
-**Write the answers to these questions in Markdown format and post it to your Github repo.**
+**Create a data memo for your beat** 
 
-Here are some stories if you don't want to find any on your own:
+Write me draft paper that describes the kinds of data that exists on the beat you want to focus on:
 
-* [Do lobster prices have anything to do with the McDonald’s lobster roll? | TrendCT](http://trendct.org/2015/07/09/do-lobster-prices-have-anything-to-do-with-the-mcdonalds-lobster-roll/)
-* [The growth of Connecticut sectors — and the shrinking of a few | TrendCT](http://trendct.org/2015/07/08/gdp-of-industry-subsectors-over-time/)
-* [The Republican Candidates Donald Trump Has Hurt the Most - The New York Times](http://www.nytimes.com/2015/09/15/upshot/the-candidates-donald-trump-has-hurt-the-most.html?_r=0)
-* [Coal, Gas, Nuclear, Hydro? How Your State Generates Power : NPR](http://www.npr.org/2015/09/10/319535020/coal-gas-nuclear-hydro-how-your-state-generates-power)
-* [Which Connecticut towns prefer Dunkin’ Donuts or Starbucks? | TrendCT](http://trendct.org/2015/08/10/which-connecticut-towns-prefer-dunkin-donuts-or-starbucks/)
-* [The Tiger Mom Tax: Asians Are Nearly Twice as Likely to Get a Higher Price from Princeton Review - ProPublica](https://www.propublica.org/article/asians-nearly-twice-as-likely-to-get-higher-price-from-princeton-review)
-* [Perilous highway | longform.theday.com](http://longform.theday.com/i95-perilous-highway/)
+* That you know exist
+* That you hope to find
+* Or that you will collect yourself
 
+Regarding the data you're envisioning, answer
+
+* Why this data source is interesting and what you’re curious about.
+* Where this data exists, or where you expect to find it
+* Anticipated problems in collecting or analyzing it
+
+This is just brainstorming and you don't have to commit to what you come up with for the homework for your midterm or final project. 
+
+This will hopefully set you on the path toward thinking of data as soon as possible. I will give feedback and help you refine researching possibilities.
+
+
+### Homework 2
+
+JOIN NUMBER OF SOMETHING WITH POPULATION COUNT??
+
+
+Assignments due before 2 p.m. on Sept. 30.
 
