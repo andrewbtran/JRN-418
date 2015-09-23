@@ -26,8 +26,6 @@ title: Digging for a story in data
 * [Facebook earnings](http://files.shareholder.com/downloads/AMDA-NJ5DZ/75562925x0x822961/fd718a09-c312-4605-9a17-1d6ef07bdd5a/FB_Q115EarningsSlides.pdf)
 
 
-
-
 #### Download links
 
 * Mac - [Sublime Text](http://www.sublimetext.com/2)
@@ -40,7 +38,7 @@ Read: [How We Made "Faces of Death Row"](https://source.opennews.org/en-US/artic
 
 Read: [The Pulitzer Prizes | Part 1: The money prison](http://www.pulitzer.org/archives/8836)
 
-### Exercise 1
+### Homework 1
 
 Using [Plotly](https://plot.ly/), make a bar chart counting the top 5 of something in one of these data sets.
 
@@ -49,7 +47,7 @@ Using [Plotly](https://plot.ly/), make a bar chart counting the top 5 of somethi
 * [Police Incidents 01012005 to Current | Open Data | City of Hartford](https://data.hartford.gov/Public-Safety/Police-Incidents-01012005-to-Current/889t-nwfu)
 * [District Enrollment: 2013-14 | Open Data | State of Connecticut](https://data.ct.gov/Education/District-Enrollment-2013-14/bb6g-79yj)
 
-### Exercise 2
+### Homework 2
 
 [HTML Basics II | Codecademy](https://www.codecademy.com/courses/web-beginner-en-y2Yjd/0/1)
 
