@@ -9,7 +9,7 @@ This walkthrough accompanies a [lecture](http://andrewbtran.github.io/JRN-418/cl
 
 * [DMME - Division of Gas and Oil - Escrow Agent Summaries](https://www.dmme.virginia.gov/DGO/DgoEscrowAgentSummaries.shtml)
 
-<img src="{{ site.url }}class4/fusion1.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion1.png" align="left" width="100%" />
 
 Click on the January Escrow Agent Summary link under 2009 Escrow Agent Summaries
 
@@ -21,7 +21,7 @@ Select January 2009. Let the page reload.
 
 Click Export to Excel
 
-<img src="{{ site.url }}class4/fusion2.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion2.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -29,7 +29,7 @@ Click Export to Excel
 
 It will download a file called 'frmPrint.aspx' -- find it on your computer and rename it to 'well_production.xls'
 
-<img src="{{ site.url }}class4/fusion3.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion3.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -37,7 +37,7 @@ It will download a file called 'frmPrint.aspx' -- find it on your computer and r
 
 Bring both Excel spreadsheets into Google Spreadsheets to clean up
 
-<img src="{{ site.url }}class4/fusion4.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion4.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -47,7 +47,7 @@ Select 'Insert new sheet(s)'
 
 Rename the sheets appropriately: one for production, the other for payments
 
-<img src="{{ site.url }}class4/fusion5.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion5.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -55,7 +55,7 @@ Rename the sheets appropriately: one for production, the other for payments
 
 Go to the production sheet and delete the buffer row and column.
 
-<img src="{{ site.url }}class4/fusion6.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion6.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -67,7 +67,7 @@ Go to the payments sheet. Scroll down and notice two different types of data.  T
 
 Delete zero balance at the bottom, too.
 
-<img src="{{ site.url }}class4/fusion7.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion7.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -79,7 +79,7 @@ First, freeze the top row.
 
 View > Freeze > 1 row
 
-<img src="{{ site.url }}class4/fusion8.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion8.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -87,7 +87,7 @@ View > Freeze > 1 row
 
 Select the little gray arrow in column C and click Sort sheet A - Z.
 
-<img src="{{ site.url }}class4/fusion9.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion9.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -96,7 +96,7 @@ Select the little gray arrow in column C and click Sort sheet A - Z.
 All the extra rows are at the bottom now. Select the rows (6656 and below) and delete them.
 
 
-<img src="{{ site.url }}class4/fusion11.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion11.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -112,7 +112,7 @@ Select the 'Unit ID' column in the Payments sheet and press control+f
 
 Click the '...' to expand the options.
 
-<img src="{{ site.url }}class4/fusion12.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion12.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -127,7 +127,7 @@ BUT, we have to limit the range, we don't want to mess with any other data in th
 
 So next to search, select 'specific range' from the pull down menu and click the little grid.
 
-<img src="{{ site.url }}class4/fusion13.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion13.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -135,7 +135,7 @@ So next to search, select 'specific range' from the pull down menu and click the
 
 Select the B column and it will limit the search and replace to that column.
 
-<img src="{{ site.url }}class4/fusion14.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion14.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -145,7 +145,7 @@ It should go back to the previous pop up. Select 'Replace all'.
 
 You should get a 'Replaced all instances of '-' with ''
 
-<img src="{{ site.url }}class4/fusion15.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion15.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -153,7 +153,7 @@ You should get a 'Replaced all instances of '-' with ''
 
 Repeat the step with a space to delete spaces.
 
-<img src="{{ site.url }}class4/fusion16.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion16.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -163,7 +163,7 @@ Now, go to the Production sheet.
 
 Get rid of dashes, spaces, #, and "W/PL" (Don't forget the space in front of W/PL)
 
-<img src="{{ site.url }}class4/fusion17.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion17.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -180,7 +180,7 @@ What this does is it looks at cell C2, and split it when it notice an open paren
 
 Drag this formula down so that it applies to all rows in the spreadsheet. You'll see the leftovers in the column to the right. You can delete that one.
 
-<img src="{{ site.url }}class4/fusion18.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion18.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -188,7 +188,7 @@ Drag this formula down so that it applies to all rows in the spreadsheet. You'll
 
 OK, go back to Payments and delete the empty columns.
 
-<img src="{{ site.url }}class4/fusion19.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion19.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -196,7 +196,7 @@ OK, go back to Payments and delete the empty columns.
 
 Now, let's download each of these sheets as a separate CSV file.
 
-<img src="{{ site.url }}class4/fusion20.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion20.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -206,7 +206,7 @@ You should have two CSV files.
 
 One called Production, the other called Payments.
 
-<img src="{{ site.url }}class4/fusion21.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion21.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -216,7 +216,7 @@ Go to your Google Drive.
 
 Click on New > More >  Connect more apps
 
-<img src="{{ site.url }}class4/fusion22.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion22.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -224,7 +224,7 @@ Click on New > More >  Connect more apps
 
 Search for Fusion Tables and click + Connect
 
-<img src="{{ site.url }}class4/fusion23.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion23.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -232,7 +232,7 @@ Search for Fusion Tables and click + Connect
 
 Go back to your Google Drive. Click on New > More > Fusion Tables
 
-<img src="{{ site.url }}class4/fusion24.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion24.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -242,7 +242,7 @@ Click From This Computer > Choose File.
 
 Select the Production csv. Click Next. Click it agian. Then click Finish.
 
-<img src="{{ site.url }}class4/fusion25.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion25.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -250,7 +250,7 @@ Select the Production csv. Click Next. Click it agian. Then click Finish.
 
 Click File > New table and bring in the Payments csv like before.
 
-<img src="{{ site.url }}class4/fusion26.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion26.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -258,7 +258,7 @@ Click File > New table and bring in the Payments csv like before.
 
 Now in the Payments fusion table, click File > Merge
 
-<img src="{{ site.url }}class4/fusion27.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion27.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -266,7 +266,7 @@ Now in the Payments fusion table, click File > Merge
 
 Select Production fusion table and click next.
 
-<img src="{{ site.url }}class4/fusion28.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion28.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -276,7 +276,7 @@ Now, select the columns that you want joined.
 
 It should be UnitID and Copy. Click next.
 
-<img src="{{ site.url }}class4/fusion29.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion29.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -284,7 +284,7 @@ It should be UnitID and Copy. Click next.
 
 You can select the columns you want brought over from Production. Leave everything checked. Click Merge.
 
-<img src="{{ site.url }}class4/fusion30.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion30.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -294,7 +294,7 @@ A new table has been created.
 
 Go ahead and click over to it and check it out.
 
-<img src="{{ site.url }}class4/fusion31.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion31.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -302,7 +302,7 @@ Go ahead and click over to it and check it out.
 
 Click file and download
 
-<img src="{{ site.url }}class4/fusion32.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion32.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -310,7 +310,7 @@ Click file and download
 
 Pop it open. Go ahead and sort it so the blank rows float to the bottom.
 
-<img src="{{ site.url }}class4/fusion33.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion33.png" align="left" width="100%" />
 
 &nbsp;
 
@@ -320,7 +320,7 @@ It looks like 56 wells that got no money actually produced something.
 
 That's 56 out of 154. Almost a third.
 
-<img src="{{ site.url }}class4/fusion34.png" align="left" width="100%" />
+<img src="{{ site.url }}/class4/fusion34.png" align="left" width="100%" />
 
 &nbsp;
 
