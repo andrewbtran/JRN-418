@@ -14,7 +14,7 @@ Note: This outline is subject to change; if it does, students will be notified.
 * September 30 - [Extracting, scraping data]({{ site.url }}/2015/09/30/cleaning-data/)
 * October 7 - [Intro to dataviz]({{ site.url }}/2015/10/07/joining-data/)
 * October 14 - [Charts]({{ site.url }}/2015/10/14/charts/)
-* October 21 - [Maps]({{ site.url }}/2015/10/21/maps/)
+* October 21 - No class
 * October 28 - [Maps II]({{ site.url }}/2015/10/28/maps-2/)
 * November 4 - [Maps III]({{ site.url }}/2015/11/04/more-maps/)
 * November 11 - [Intro to R]({{ site.url }}/2015/11/11/intro-to-r/)
