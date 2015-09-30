@@ -43,6 +43,8 @@ Regarding the data you're envisioning, answer
 * Where this data exists, or where you expect to find it
 * Anticipated problems in collecting or analyzing it
 
+Upload it to your Github repo or email it to me.
+
 This is just brainstorming and you don't have to commit to what you come up with for the homework for your midterm or final project. 
 
 This will hopefully set you on the path toward thinking of data as soon as possible. I will give feedback and help you refine researching possibilities.

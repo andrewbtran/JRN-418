@@ -141,5 +141,5 @@ The breakdown for the final data story will be:
 - Storyboard (12.5 percent)
 - Draft (25 percent)
 - Final (25 percent)
-- Revisioni (12.5 percent
+- Revision (12.5 percent
 
