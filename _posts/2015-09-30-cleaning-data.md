@@ -1,21 +1,36 @@
 ---
 layout: post
-title: Cleaning data
+title: Extracting data from PDFs, Intro to Mapping
 ---
 
 
-#### Links
+#### Links for class
 
-#### Assignments for Oct. 7
+* [What to do with the docs]({{ site.url }}/class5/class5.html)
+* [Extracting data from a PDF]({{ site.url }}/class5/pdf_converter/)
+* [Tutorial on Getting started with the Github desktop app]({{ site.url }}/class5/fusion_map)
+ 
 
-Read:
-Read: 
-Read: 
+### Readings for Oct. 7
 
-#### Homework 1
-Extract data from a PDF.
+Read: [Distrust Your Data](https://source.opennews.org/en-US/learning/distrust-your-data/)
 
-#### Homework 2
+Read: [When Maps Shouldn’t Be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
+
+Read: [Connecting with the Dots](https://source.opennews.org/en-US/learning/connecting-dots/)
+
+### Homework 1
+
+Answer these questions about the readings.
+
+[Questions about the Class 5 reading assignments](http://drive.google.com)
+
+### Homework 2
+* Extract data from [this PDF](pop_towns2012-2.pdf).
+* Don't just convert it to a spreadsheet. Clean it up nice.
+* Save it as a CSV and upload it to the private Github repo.
+
+### Homework 3
 Critique a piece of data journalism
 Find a story that purports to use data, read it, and answer the following questions:
 
@@ -37,3 +52,5 @@ Here are some stories if you don't want to find any on your own:
 * [Which Connecticut towns prefer Dunkin’ Donuts or Starbucks? | TrendCT](http://trendct.org/2015/08/10/which-connecticut-towns-prefer-dunkin-donuts-or-starbucks/)
 * [The Tiger Mom Tax: Asians Are Nearly Twice as Likely to Get a Higher Price from Princeton Review - ProPublica](https://www.propublica.org/article/asians-nearly-twice-as-likely-to-get-higher-price-from-princeton-review)
 * [Perilous highway | longform.theday.com](http://longform.theday.com/i95-perilous-highway/)
+
+#### To download before next week's class
