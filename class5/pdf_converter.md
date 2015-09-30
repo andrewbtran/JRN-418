@@ -53,11 +53,11 @@ Above that is the area you can upload PDFs.
 
 Download these 3 files and upload them into Cometdocs.
 
-* 2009Enrollment.pdf
+* [2009Enrollment.pdf](2009Enrollment.pdf)
 
-* 2010Enrollment.pdf
+* [2010Enrollment.pdf](2010Enrollment.pdf)
 
-* 2011Enrollment.pdf
+* [2011Enrollment.pdf](2011Enrollment.pdf)
 
 <img src="../pdf5.png" width="100%"></img>
 
