@@ -26,7 +26,7 @@ Answer these questions about the readings.
 [Questions about the Class 5 reading assignments](http://drive.google.com)
 
 ### Homework 2
-* Extract data from [this PDF](pop_towns2012-2.pdf).
+* Extract data from [this PDF](http://andrewbtran.github.io/JRN-418/class5/pop_towns2012-2.pdf).
 * Don't just convert it to a spreadsheet. Clean it up nice.
 * Save it as a CSV and upload it to the private Github repo.
 
