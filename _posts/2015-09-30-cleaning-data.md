@@ -17,7 +17,7 @@ Read: [Distrust Your Data](https://source.opennews.org/en-US/learning/distrust-y
 
 Read: [When Maps Shouldn’t Be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
 
-Read: [Connecting with the Dots](https://source.opennews.org/en-US/learning/connecting-dots/)
+Read: [Fusion table exercise](https://source.opennews.org/en-US/learning/connecting-dots/)
 
 ### Homework 1
 
