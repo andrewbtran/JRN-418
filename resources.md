@@ -31,10 +31,16 @@ A wonderful organization dedicated to improving the quality of investigative rep
 * [How the WSJ uncovered a flawed system of reporting police killings](http://ire.org/blog/ire-news/2015/01/29/behind-story-how-wsj-uncovered-flawed-system-repor/)
 * [Investigative Reporters and Editors | Behind the Story: How NPR and ProPublica exposed problems with the Red Cross’ response to Superstorm Sandy](http://ire.org/blog/ire-news/2014/11/19/behind-story-how-npr-and-propublica-exposed-proble/)
 
-
-
-
 ## Walkthroughs
+
+* [How to make pivot tables in Google Sheets](http://trendct.org/2015/09/04/tutorial-how-to-make-pivot-tables-in-google-sheets/)
+* [Getting started with Github desktop app](http://andrewbtran.github.io/JRN-418/github_app/)
+* [Investigating homicide stats](http://andrewbtran.github.io/JRN-418/homicide_stats/)
+* [Introduction to Plotly](http://andrewbtran.github.io/JRN-418/class3/plotly.html#/)
+* [Joining with Google Fusion Tables](http://andrewbtran.github.io/JRN-418/class4/joining/)
+* [Extracting data from a PDF](http://andrewbtran.github.io/JRN-418/class5/pdf_converter/)
+* [Joining data and making a map with Google Fusion table](http://andrewbtran.github.io/JRN-418/class5/fusion_map/)
+
 
 ## Extra links
 

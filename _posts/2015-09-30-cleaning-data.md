@@ -23,7 +23,7 @@ Read: [Fusion table exercise](https://source.opennews.org/en-US/learning/connect
 
 Answer these questions about the readings.
 
-[Questions about the Class 5 reading assignments](http://drive.google.com)
+[Questions about the Class 5 reading assignments](https://docs.google.com/forms/d/1OUNIeWXx9tAdTZytYpOfuHmkAfPsQ-GNB8aQVa5jMeI/viewform?usp=send_form)
 
 ### Homework 2
 * Extract data from [this PDF](http://andrewbtran.github.io/JRN-418/class5/pop_towns2012-2.pdf).
