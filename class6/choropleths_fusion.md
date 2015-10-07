@@ -106,3 +106,11 @@ Well, look at the original data... Branford is mispelled.
 That's why it didn't join correctly.
 
 <img src="../chor17.png" width="100%"></img>
+
+ok, fix it, bring it back in again.
+
+<img src="../chor18.png" width="100%"></img>
+
+Fun with icons [[link]](https://www.google.com/fusiontables/DataSource?dsrcid=308519#map:id=3)
+
+Here's how to play around with layers. [[link]](http://gmaps-samples.googlecode.com/svn-history/r2586/trunk/fusiontables/fusiontableslayer_builder.html)
