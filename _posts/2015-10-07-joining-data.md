@@ -7,7 +7,7 @@ title: Intro to data visualization
 * [US Mass Shootings, 1982-2015: Data From Mother Jones' Investigation](http://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data) - [raw data](https://docs.google.com/spreadsheet/ccc?key=0AswaDV9q95oZdG5fVGJTS25GQXhSTDFpZXE0RHhUdkE#gid=0)
 * [Connecting with the dots]({{ site.url }}/class6/class6.html)
 * [The different types of data vizualizations]({{ site.url }}/class6/vizualizationtypes.html)
-* [More fun with Google Fusion Tables]({{ site.url }}/class5/choropleths_fusion)
+* [More fun with Google Fusion Tables]({{ site.url }}/class6/choropleths_fusion)
 * [Setting up a Github page]({{ site.url }}/class5/ghpages/)
 
 ### Assignments for Oct. 14
