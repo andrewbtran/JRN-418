@@ -8,7 +8,7 @@ title: Intro to data visualization
 * [Connecting with the dots]({{ site.url }}/class6/class6.html)
 * [The different types of data vizualizations]({{ site.url }}/class6/vizualizationtypes.html)
 * [More fun with Google Fusion Tables]({{ site.url }}/class6/choropleths_fusion)
-* [Setting up a Github page]({{ site.url }}/class5/ghpages/)
+* [Setting up a Github page]({{ site.url }}/class6/ghpages/)
 
 ### Assignments for Oct. 14
 
