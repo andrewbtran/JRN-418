@@ -19,7 +19,7 @@ date: October 14, 2015
 Data scavenger hunt
 ========================================================
 
-Start out with a question, lik
+Start out with a question, like
 
 ## How many traffic accidents are there in CT?
 
