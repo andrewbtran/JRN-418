@@ -20,7 +20,7 @@ Note: This outline is subject to change; if it does, students will be notified.
 * October 7 - [More mapping, setting up a website]({{ site.url }}/2015/10/07/joining-data/)
   * Empathizing with dots | Intro to Choropleths | Github pages
 * October 14 - Scraping, cleaning data
-  * Data miner | Import.io | Google Refine
+  * FOIAs with Michael Morisy of [MuckRock.com](http://www.muckrock.com) | Google Refine | Data miner | Import.io 
 * October 21 - 
   * **No class** 
   * *Midterm due*
