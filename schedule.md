@@ -19,13 +19,14 @@ Note: This outline is subject to change; if it does, students will be notified.
   * What to do with the data | CometDocs | Google Fusion Tables maps
 * October 7 - [More mapping, setting up a website]({{ site.url }}/2015/10/07/joining-data/)
   * Empathizing with dots | Intro to Choropleths | Github pages
-* October 14 - Scraping, cleaning data
+* October 14 - [Finding, scraping, cleaning data]({{ site.url }}/2015/10/14/charts/)
   * FOIAs with Michael Morisy of [MuckRock.com](http://www.muckrock.com) | Google Refine | Data miner | Import.io 
 * October 21 - 
   * **No class** 
   * *Midterm due*
 * October 28 - 
   * **No class**
+  * There will be a couple tutorials, reading assignments, and homework, however
 * November 4 - Advanced maps 
   * *Pitch due*   
 * November 11 - Intro to R 
