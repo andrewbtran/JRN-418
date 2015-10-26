@@ -28,14 +28,17 @@ Note: This outline is subject to change; if it does, students will be notified.
   * **No class**
   * There will be a couple tutorials, reading assignments, and homework, however
 * November 4 - Advanced maps 
-  * *Pitch due*   
-* November 11 - Intro to R 
-  * *Pitch revision due*
-* November 18 - Reproducibility 
+  * *Pitch due* 
+  * Mr. Map Maker | TileMill | Github Pages
+* November 11 - Investigative journalism and the future of journalism
+  * *Pitch revision due* 
+  * Data journalism with Matt Carroll ([@MattAtMIT](http://www.twitter.com/mattatmit)) | Screening of **Spotlight** at 6:30 p.m. [off campus](http://www.bowtiecinemas.com/locations/criterion-cinemas-blue-back-square/)
+* November 18 - Maps from scratch, charts from scratch
   * *Storyboard due*
+  * Highcharts.js | Leaflet.js
 * November 25 - 
   * **Thanksgiving break**
-* December 2 - Working with APIs 
+* December 2 - Introduction to R
   * *Draft due*
 * December 9 - Intermediate R
   * *Final due*
