@@ -24,9 +24,9 @@ Note: This outline is subject to change; if it does, students will be notified.
 * October 21 - 
   * **No class** 
   * *Midterm due*
-* October 28 - 
+* October 28 - [More maps, advanced auto refine, automated data]({{ site.url }}/2015/11/04/more-maps/)
   * **No class**
-  * There will be a couple tutorials, reading assignments, and homework, however
+  * Open Refine advanced | SVG Choropleth map | If This Then That
 * November 4 - Advanced maps 
   * *Pitch due* 
   * Mr. Map Maker | TileMill | Github Pages
