@@ -28,6 +28,15 @@ NPR
 <a href="http://www.npr.org/news/graphics/2011/10/toxic-air/#5.00/39.849/-94.503"><img src="map2.png" style="width:100%"></img></a>
 </div>
 
+New York Times
+========================================================
+<div class="wide">
+<a href="http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html?_r=1"><img src="map4.png" style="width:100%"></img></a>
+</div>
+
+The Upshot uses geolocation to push readers deeper into data
+- [Nieman Journalism Lab](http://www.niemanlab.org/2015/05/the-upshot-uses-geolocation-to-push-readers-deeper-into-data/)
+
 All the Lonely People
 ========================================================
 <div class="wide">
