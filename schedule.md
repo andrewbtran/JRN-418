@@ -26,10 +26,10 @@ Note: This outline is subject to change; if it does, students will be notified.
   * *Midterm due*
 * October 28 - [More maps, advanced auto refine, automated data]({{ site.url }}/2015/10/28/maps-2/)
   * **No class**
-  * Open Refine advanced | SVG Choropleth map | If This Then That h
-* November 4 - Advanced maps 
+  * Open Refine advanced | SVG Choropleth map | If This Then That
+* November 4 - [Advanced maps]({{ site.url }}/2015/11/04/more-maps/)
   * *Pitch due* 
-  * Mr. Map Maker | TileMill | Github Pages
+  * CartoDB | Github Pages | Exploring the Census
 * November 11 - Investigative journalism and the future of journalism
   * *Pitch revision due* 
   * Data journalism with Matt Carroll ([@MattAtMIT](http://www.twitter.com/mattatmit)) | Screening of **Spotlight** at 6:30 p.m. [off campus](http://www.bowtiecinemas.com/locations/criterion-cinemas-blue-back-square/)

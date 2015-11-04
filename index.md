@@ -131,7 +131,7 @@ In the newsroom, plagiarism will derail your career. Plus there are consequences
 
 Obtain and analyze federal government data and write a summary of the analysis. Not the actual story. Instead, the memo should detail the process it will take to get to the final story or visualization. Explain what it took to get the data, who explained it to you, point out the nuances and limitations of it and how it was collected or processed. Discuss the gaps in tha data and what could be improved. Then, analyze the agency that provided the data set. Detail the scope, quality, and accesibility of the rest of the department's data. How journalists might have used it so far or how it could be used in the future.
 
-###### Final:
+#### Final:
 
 Each student will be responsible for obtaining, analyzing, visualizing, and writing a story based on a federal government data set, using methods learned in class. 
 

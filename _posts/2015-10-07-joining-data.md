@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro to data visualization
+title: More mapping, setting up a website
 ---
 
 ### Links for class

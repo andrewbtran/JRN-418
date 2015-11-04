@@ -40,6 +40,13 @@ A wonderful organization dedicated to improving the quality of investigative rep
 * [Joining with Google Fusion Tables](http://andrewbtran.github.io/JRN-418/class4/joining/)
 * [Extracting data from a PDF](http://andrewbtran.github.io/JRN-418/class5/pdf_converter/)
 * [Joining data and making a map with Google Fusion table](http://andrewbtran.github.io/JRN-418/class5/fusion_map/)
+* [More Fusion Tables fun - Choropleth maps](http://andrewbtran.github.io/JRN-418/class6/choropleths_fusion/)
+* [Cleaning up data with Open Refine](http://andrewbtran.github.io/JRN-418/class7/openrefine/)
+* [Scraping data with Data Miner](http://andrewbtran.github.io/JRN-418/class7/scraping_intro/)
+* [Scraping data without programming using Import.io](http://andrewbtran.github.io/JRN-418/class7/importio/)
+* [Some advanced data work in Open Refine](http://andrewbtran.github.io/JRN-418/class8/openrefine_advanced/)
+* [Another way to make a Choropleth map](http://andrewbtran.github.io/JRN-418/class10/choropleth/)
+* [Gathering data by using IFTTT](http://andrewbtran.github.io/JRN-418/class10/ifttt/)
 
 
 ## Extra links
