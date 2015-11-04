@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extracting data from PDFs, Intro to Mapping
+title: Extracting data from docs, mapping
 ---
 
 
