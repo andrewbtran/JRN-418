@@ -3,27 +3,24 @@ layout: page
 title: Chropleth Mapmaker
 ---
 
-Want to track new postings on Craigslist for a specific search? Use [IFTTT](https://ifttt.com/recipes) (IfThisThenThat).
+We've made a choropleth map using Google Fusion Table but now we're going to try it another way.
 
-People make "recipes" on the site combining triggers like text messages, Google Alerts, FourSquare checkins, and programs a reaction with another service, like Dropbox or Twitter. 
+<img src="../refinem7.png" width="100%"></img>
 
-[Learn more](https://ifttt.com/wtf)
+Open up the exported spreadsheet you created and copy everything in the **Abbrev**, **State name**, and **count**.
 
-<img src="../if1.png" width="100%"></img>
+<img src="../refinem8.png" width="80%"></img>
 
-For this example, I want to track the prices of Red Sox tickets on Craigslist. Copy the URL the search generated.
+Go to [http://patrickgarvin.com/maps/USmap.htm](http://patrickgarvin.com/maps/USmap.htm) and paste what you've copied into the appropriate data field.
 
-<img src="../if2.png" width="70%"></img>
+<img src="../refinem9.png" width="80%"></img>
 
-Visit [this link](https://ifttt.com/recipes/54659-searching-for-what-a-craigslist-spreadsheet) and give IFTTT permission to access your Google Drive account.
+Follow the directions. Click the **column** in 4. and choose colors and number range.
 
-<img src="../if3.png" width="70%"></img>
+Grab the code and you can put it into **code.js** and follow the instructions at the top of the page to create a choropleth map using the [included](http://patrickgarvin.com/maps/USmap.zip) html, css, and javascript files.
 
-and paste the copied URL into the appropriate data field.
+#### Preview the map code
 
-All new updates to that search will be sent to a spreadsheet in your Google Drive.
+Visit [http://codepen.io/anon/pen/dpIwc](http://codepen.io/anon/pen/dpIwc) and paste in the generated javascript from before into the top of the JS box on the left.
 
-<img src="../if4.png" width="90%"></img>
-You're all set. The data comes in dirty but there are ways to clean it up.
-
-(Hint: Use Text to Columns in Excel to split off the prices listed)
+<img src="../refinem10.png" width="80%"></img>
