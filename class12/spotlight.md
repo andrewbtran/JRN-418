@@ -16,12 +16,6 @@ Spotlight: Abuse in the Catholic Church
 author: Andrew Ba Tran
 date: November 11, 2015
 
-2002
-========================================================
-On January 24, 2002, the Boston Globe published the Spotlight Team's analysis of John Geoghan's personnel file, which the newspaper had gone to court to make public. 
-
-Following the Globe's January 6-7, 2002 articles, this feature was an important milestone in coverage of the crisis, increasing the public's understanding of diocesan documents and the mechanisms of priest transfers
-
 1992
 ========================================================
 
