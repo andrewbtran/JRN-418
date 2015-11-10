@@ -22,10 +22,8 @@ Note: This outline is subject to change; if it does, students will be notified.
 * October 14 - [Finding, scraping, cleaning data]({{ site.url }}/2015/10/14/charts/)
   * FOIAs with Michael Morisy of [MuckRock.com](http://www.muckrock.com) | Google Refine | Data miner | Import.io 
 * October 21 - 
-  * **No class** 
   * *Midterm due*
 * October 28 - [More maps, advanced auto refine, automated data]({{ site.url }}/2015/10/28/maps-2/)
-  * **No class**
   * Open Refine advanced | SVG Choropleth map | If This Then That
 * November 4 - [Advanced maps]({{ site.url }}/2015/11/04/more-maps/)
   * *Pitch due* 
