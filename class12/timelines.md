@@ -90,7 +90,7 @@ Each dot on the map corresponds with a new piece of multimedia.
 Beyond the Border (The Guardian)
 ========================================================
 <div class="wide">
-<a href="http://www.theguardian.com/world/ng-interactive/2014/aug/06/-sp-texas-border-deadliest-state-undocumented-migrants"><img src="../scrolly2.gif" width="100%"></img></a>
+<a href="http://www.theguardian.com/world/ng-interactive/2014/aug/06/-sp-texas-border-deadliest-state-undocumented-migrants"><img src="scrolly2.gif" width="100%"></img></a>
 </div>
 
 Beyond the Border (The Guardian)
