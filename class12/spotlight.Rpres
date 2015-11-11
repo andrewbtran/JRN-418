@@ -190,7 +190,7 @@ Finding sources
 
 Interviewing victims
 ========================================================
-Pfeiffer had a reuptation as a skilled and patient listener.
+Pfeiffer had a reputation as a skilled and patient listener.
 
 She made victims feel comfortable enough to tell their stories.
 
@@ -242,7 +242,7 @@ Building a database
 
 It took three weeks to go through 17 years' worth of directories.
 
-They eventually were able to identify more than 100 priests with suspicious "on-the-shelf" 
+They eventually were able to identify more than 100 priests with suspicious "on-the-shelf" designations.
 
 Building a database
 ========================================================
