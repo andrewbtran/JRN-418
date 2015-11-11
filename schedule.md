@@ -28,7 +28,7 @@ Note: This outline is subject to change; if it does, students will be notified.
 * November 4 - [Advanced maps]({{ site.url }}/2015/11/04/more-maps/)
   * *Pitch due* 
   * CartoDB | Github Pages | Exploring the Census
-* November 11 - Investigative journalism and the future of journalism
+* November 11 - [Investigative journalism and the future of journalism]({{ site.url }}/2015/11/11/intro-to-r/)
   * *Pitch revision due* 
   * Data journalism with Matt Carroll ([@MattAtMIT](http://www.twitter.com/mattatmit)) | Screening of **Spotlight** at 6:30 p.m. [off campus](http://www.bowtiecinemas.com/locations/criterion-cinemas-blue-back-square/)
 * November 18 - Maps from scratch, charts from scratch
