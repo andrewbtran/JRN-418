@@ -96,7 +96,7 @@ Beyond the Border (The Guardian)
 Beyond the Border (The Guardian)
 ========================================================
 <div class="wide">
-<a href="<a href="http://www.theguardian.com/world/ng-interactive/2014/aug/27/-sp-lawmans-burden-south-texas-immigration-crisis"><img src="scrolly3.gif" width="100%"></img></a>" width="100%"></img></a>
+<a href="<a href="http://www.theguardian.com/world/ng-interactive/2014/aug/27/-sp-lawmans-burden-south-texas-immigration-crisis"><img src="scrolly3.gif" width="100%"></img></a>
 </div>
 
 Beyond the Border (The Guardian)
