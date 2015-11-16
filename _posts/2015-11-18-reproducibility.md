@@ -1,19 +1,20 @@
 ---
 layout: page
-title: Reproducibility
+title: Maps and charts from scratch
 ---
 
 * [Introduction to the Census]({{ site.url }}/class11/census.html)
-
 * [Getting and visualizing Census data](https://docs.google.com/presentation/d/15n8F0SN89Vw5HI9lryf4X_xX8dOTBRnI2c2LmAmVAyE/edit?usp=sharing)
-
-
-Story mapper links
-
-http://www.storybench.org/understanding-what-makes-a-visualization-memorable/
+* [HTML, CSS, Javascript]()
+* [Github Redux]({{ site.url }}/class13/github_redux.html)
+* [Build a blog with Jekyll and Github Pages]()
+* [Leaflet map walkthrough]()
+* [Batch geocoding]()
+* [Highcharts walkthrough]()
 
 
 https://chrome.google.com/webstore/detail/page-monitor/pemhgklkefakciniebenbfclihhmmfcd?hl=en
+
 Batch geocoding strategies
 
 Batch Geocoding options
@@ -34,11 +35,9 @@ http://www.findlatitudeandlongitude.com/batch-geocode/
 
 #### Links
 
-#### Assignments for Dec. 2
+#### Draft for final story due Dec. 2
 
-Read:
-Read: 
-Read: 
+This is the big one.
 
 #### Exercise 1
 
