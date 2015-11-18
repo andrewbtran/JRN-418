@@ -149,10 +149,14 @@ Select the cleaned up uninsured dataset you created and join it by **id**.
 
 Click **Merge datasets**.
 
-<img src="../census28.png" width="100%"></img>
+<img src="../census28.png" width="50%"></img>
 
 Click **Visualize**, click **Wizard** and select **Choropleth**.
 
 Go to the pulldown menu and select **percent_uninsured**.
 
 ## Congrats, you've made a map using Census data.
+
+### Here's a quicker way, though...
+
+
