@@ -1,44 +1,36 @@
 ---
 layout: page
-title: Maps and charts from scratch
+title: Demographic data, portfolio websites, and charts from scratch
 ---
 
 * [Introduction to the Census]({{ site.url }}/class11/census.html)
-* [Getting and visualizing Census data](https://docs.google.com/presentation/d/15n8F0SN89Vw5HI9lryf4X_xX8dOTBRnI2c2LmAmVAyE/edit?usp=sharing)
-* [HTML, CSS, Javascript]()
+* [Getting and visualizing Census data]({{ site.url }}/class13/census_viz)
 * [Github Redux]({{ site.url }}/class13/github_redux.html)
-* [Build a blog with Jekyll and Github Pages]()
-* [Leaflet map walkthrough]()
-* [Batch geocoding]()
-* [Highcharts walkthrough]()
+* [Build a blog with Jekyll and Github Pages]({{ site.url }}/class13/jekyll)
+* [Highcharts walkthrough]({{ site.url }}/class13/highcharts)
+* [Converting data to JSON format]({{ site.url }}/class13/json_convert)
+* [Making D3 charts using D3Plus.js]({{ site.url }}/class13/d3plus)
 
 
-https://chrome.google.com/webstore/detail/page-monitor/pemhgklkefakciniebenbfclihhmmfcd?hl=en
+#### Possibly useful links
 
-Batch geocoding strategies
+* [How to write an unforgettable data story](http://ire.org/blog/ire-conference-blog/2015/06/18/how-write-unforgettable-data-story/)
+* [A guide to writing stories about numbers](https://www.unece.org/fileadmin/DAM/stats/documents/writing/MDM_Part1_English.pdf)
+* [Tell a Meaningful Story With Data](https://www.thinkwithgoogle.com/articles/tell-meaningful-stories-with-data.html)
+* [Data Stories - The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/understanding_data_5.html)
+* [How to find stories in numbers](http://www.scidev.net/global/journalism/practical-guide/data-journalism-how-to-find-stories-in-numbers.html)
+* [How to Tell a Story with Data](https://hbr.org/2013/04/how-to-tell-a-story-with-data/)
 
-Batch Geocoding options
-http://geoservices.tamu.edu/Services/Geocode/
- * Email them and they'll email back
+### Draft for final story due Dec. 2
 
- http://batchgeo.com/
-  * Only 250 free a day
+**This is the big one.**
 
-  http://geocod.io/
-  * 100/2,500 free lookups a day
+You'll have two weeks to write it and make the visualizations.
 
-http://www.findlatitudeandlongitude.com/batch-geocode/
- * No limit, possibly
- * Someone's running it himself. So who knows how long it will last?
+It needs to be written in the format of a Jekyll markdown page.
 
- https://github.com/paldhous/refine-geocoder
+Email it to me as `your_name.md`.
 
-#### Links
+It's due by 2 p.m. on Dec. 2.
 
-#### Draft for final story due Dec. 2
-
-This is the big one.
-
-#### Exercise 1
-
-#### Exercise 2
+If you are running into problems or have any questions, e-mail me and I'll help you through.
