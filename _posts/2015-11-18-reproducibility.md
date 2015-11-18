@@ -5,6 +5,7 @@ title: Demographic data, portfolio websites, and charts from scratch
 
 * [Introduction to the Census]({{ site.url }}/class11/census.html)
 * [Getting and visualizing Census data]({{ site.url }}/class13/census_viz)
+* [Using Census Reporter]({{ site.url }}/class13/census_reporter)
 * [Github Redux]({{ site.url }}/class13/github_redux.html)
 * [Build a blog with Jekyll and Github Pages]({{ site.url }}/class13/jekyll)
 * [Highcharts walkthrough]({{ site.url }}/class13/highcharts)
