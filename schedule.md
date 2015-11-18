@@ -31,12 +31,12 @@ Note: This outline is subject to change; if it does, students will be notified.
 * November 11 - [Investigative journalism and the future of journalism]({{ site.url }}/2015/11/11/intro-to-r/)
   * *Pitch revision due* 
   * Data journalism with Matt Carroll ([@MattAtMIT](http://www.twitter.com/mattatmit)) | Screening of **Spotlight** at 6:30 p.m. [off campus](http://www.bowtiecinemas.com/locations/criterion-cinemas-blue-back-square/)
-* November 18 - Maps from scratch, charts from scratch
+* November 18 - [Demographic data, portfolio websites, and charts from scratch]({{ site.url }}/2015/11/18/reproducibility/)
   * *Storyboard due*
-  * Highcharts.js | Leaflet.js
+  * Census data | Jekyll & Github Pages | Highcharts.js | Leaflet.js
 * November 25 - 
   * **Thanksgiving break**
-* December 2 - Introduction to R
+* December 2 - Maps from scratch and an Introduction to R
   * *Draft due*
 * December 9 - Intermediate R
   * *Final due*
