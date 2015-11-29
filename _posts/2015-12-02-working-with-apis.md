@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working with APIs
+title: Charts and maps from scratch
 ---
 
 Anatomy of a webmap:

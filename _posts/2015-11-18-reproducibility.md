@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Demographic data, portfolio websites, and charts from scratch
+title: Demographic data and portfolio websites
 ---
 
 * [Introduction to the Census]({{ site.url }}/class11/census.html)
@@ -8,10 +8,6 @@ title: Demographic data, portfolio websites, and charts from scratch
 * [Using Census Reporter]({{ site.url }}/class13/census_reporter)
 * [Github Redux]({{ site.url }}/class13/github_redux.html)
 * [Build a blog with Jekyll and Github Pages]({{ site.url }}/class13/jekyll)
-* [Highcharts walkthrough]({{ site.url }}/class13/highcharts)
-* [Converting data to JSON format]({{ site.url }}/class13/json_convert)
-* [Making D3 charts using D3Plus.js]({{ site.url }}/class13/d3plus)
-
 
 #### Possibly useful links
 

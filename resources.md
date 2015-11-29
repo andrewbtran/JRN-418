@@ -31,7 +31,7 @@ A wonderful organization dedicated to improving the quality of investigative rep
 * [How the WSJ uncovered a flawed system of reporting police killings](http://ire.org/blog/ire-news/2015/01/29/behind-story-how-wsj-uncovered-flawed-system-repor/)
 * [Investigative Reporters and Editors | Behind the Story: How NPR and ProPublica exposed problems with the Red Cross’ response to Superstorm Sandy](http://ire.org/blog/ire-news/2014/11/19/behind-story-how-npr-and-propublica-exposed-proble/)
 
-## Walkthroughs
+## Walkthroughs from class
 
 * [How to make pivot tables in Google Sheets](http://trendct.org/2015/09/04/tutorial-how-to-make-pivot-tables-in-google-sheets/)
 * [Getting started with Github desktop app](http://andrewbtran.github.io/JRN-418/github_app/)
@@ -40,6 +40,7 @@ A wonderful organization dedicated to improving the quality of investigative rep
 * [Joining with Google Fusion Tables](http://andrewbtran.github.io/JRN-418/class4/joining/)
 * [Extracting data from a PDF](http://andrewbtran.github.io/JRN-418/class5/pdf_converter/)
 * [Joining data and making a map with Google Fusion table](http://andrewbtran.github.io/JRN-418/class5/fusion_map/)
+* [The different types of data vizualizations](http://andrewbtran.github.io/JRN-418/class6/vizualizationtypes.html) (And links to how to make them)
 * [More Fusion Tables fun - Choropleth maps](http://andrewbtran.github.io/JRN-418/class6/choropleths_fusion/)
 * [Cleaning up data with Open Refine](http://andrewbtran.github.io/JRN-418/class7/openrefine/)
 * [Scraping data with Data Miner](http://andrewbtran.github.io/JRN-418/class7/scraping_intro/)
@@ -47,6 +48,14 @@ A wonderful organization dedicated to improving the quality of investigative rep
 * [Some advanced data work in Open Refine](http://andrewbtran.github.io/JRN-418/class8/openrefine_advanced/)
 * [Another way to make a Choropleth map](http://andrewbtran.github.io/JRN-418/class10/choropleth/)
 * [Gathering data by using IFTTT](http://andrewbtran.github.io/JRN-418/class10/ifttt/)
+* [Hosting your website on Github Pages](http://andrewbtran.github.io/JRN-418/class6/ghpages/)
+* [Introduction to CartoDB](http://andrewbtran.github.io/JRN-418/class11/cartodb/)
+* [Advanced CartoDB](http://andrewbtran.github.io/JRN-418/class11/cartodb_2/)
+* [Timelines and story maps](http://andrewbtran.github.io/JRN-418/class12/timelines.html)
+* [Getting and visualizing Census data]({{ site.url }}/class13/census_viz)
+* [Using Census Reporter]({{ site.url }}/class13/census_reporter)
+* [Github Redux]({{ site.url }}/class13/github_redux.html)
+* [Build a blog with Jekyll and Github Pages]({{ site.url }}/class13/jekyll)
 
 
 ## Extra links
