@@ -1,0 +1,32 @@
+<html>
+<script src="http://www.d3plus.org/js/d3.js"></script>
+<script src="http://www.d3plus.org/js/d3plus.js"></script>
+
+<div id="viz" style="width:600px; height:400px;"></div>
+
+<script>
+  var data = [
+	{"Education level":"No HS diploma","Year":2005,"Percent":25.5},
+	{"Education level":"HS grad","Year":2005,"Percent":24.6},
+	{"Education level":"Some college","Year":2005,"Percent":23.5},
+	{"Education level":"Associate degree","Year":2005,"Percent":20.9},
+	{"Education level":"Undergrad degree","Year":2005,"Percent":10.7},
+	{"Education level":"Grad degree","Year":2005,"Percent":7.1},
+	{"Education level":"No HS diploma","Year":2014,"Percent":22.9},
+	{"Education level":"HS grad","Year":2014,"Percent":21.7},
+	{"Education level":"Some college","Year":2014,"Percent":19.7},
+	{"Education level":"Associate degree","Year":2014,"Percent":17.1},
+	{"Education level":"Undergrad degree","Year":2014,"Percent":7.9},
+	{"Education level":"Grad degree","Year":2014,"Percent":5.4}
+	]
+
+  var visualization = d3plus.viz()
+    .container("#viz")
+    .data(data)
+    .type("bar")
+    .id("Year")
+    .x("Education level")
+    .y("Percent")
+    .draw()
+</script>
+</html>

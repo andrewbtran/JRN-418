@@ -3,6 +3,8 @@ layout: page
 title: Demographic data and portfolio websites
 ---
 
+### Tutorials
+
 * [Introduction to the Census]({{ site.url }}/class11/census.html)
 * [Getting and visualizing Census data]({{ site.url }}/class13/census_viz)
 * [Using Census Reporter]({{ site.url }}/class13/census_reporter)

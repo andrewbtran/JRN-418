@@ -36,9 +36,9 @@ Note: This outline is subject to change; if it does, students will be notified.
   * Census data | Jekyll & Github Pages
 * November 25 - 
   * **Thanksgiving break**
-* December 2 - Charts and maps from scratch
+* December 2 - [Charts and maps from scratch]({{ site.url }}/2015/12/02/working-with-apis/)
   * *Draft due*
-  * Highcharts.js | Leaflet.js
+  * Highcharts.js | D3plus | Leaflet.js
 * December 9 - Introduction to R
   * *Final due*
 * December 16 - 
