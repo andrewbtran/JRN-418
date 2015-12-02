@@ -11,7 +11,7 @@ You might not have noticed, but we've used D3 before when we used [Plot.ly](http
 
 Unfortunately, D3 takes some advanced knowledge of Javascript, HTML, and CSS to build it from scratch. 
 
-Plot.ly](http://andrewbtran.github.io/JRN-418/class3/plotly.html) is a service for those who don't want to deal with the coding. It's a chart-building service that renders the visualizations using D3. However, there are limitations. You only have as much flexibility as their chart generators allow. Like height will always be limited. 
+[Plot.ly](http://andrewbtran.github.io/JRN-418/class3/plotly.html) is a service for those who don't want to deal with the coding. It's a chart-building service that renders the visualizations using D3. However, there are limitations. You only have as much flexibility as their chart generators allow. Like height will always be limited. 
 
 However, [D3plus.org](http://d3plus.org/) is an alternative for those who want to create D3 visualizations with a high level of customizaiton but don't have the deep coding knowledge.
 
@@ -162,11 +162,11 @@ So, for example, I'd have the chart here at [http://andrewbtran.github.io/JRN-41
 
 I'd need to put the code into the iframe code like below. The height and width should match. If you're putting together an iframe on a responsive site, well, that's a [slightly more complicated](http://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/).
 
-`<iframe src="http://andrewbtran.github.io/JRN-418/class14/d3pluschart.html" frameborder="0" width="600" height="400"></iframe>` 
+`<iframe src="http://andrewbtran.github.io/JRN-418/class14/d3pluschart.html" frameborder="0" width="640" height="440" overflow="no" scrolling="no"></iframe>` 
 
 Paste the link above into your Wordpress site and it will look like this:
 
-<iframe src="http://andrewbtran.github.io/JRN-418/class14/d3pluschart.html" frameborder="0" width="600" height="400"></iframe>
+<iframe src="http://andrewbtran.github.io/JRN-418/class14/d3pluschart.html" frameborder="0" width="600" height="440" overflow="no" scrolling="no"></iframe>
 
 The bars are interactive. 
 
