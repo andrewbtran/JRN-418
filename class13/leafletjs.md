@@ -171,7 +171,7 @@ Also, let's make the height of the map larger. Change `#map` to `400px`.
 
 **And here's the map!**
 
-<iframe src="http://andrewbtran.github.io/JRN-418/class13/map3.html" frameborder="0" width="100%" height="250" overflow="no" scrolling="no"></iframe>
+<iframe src="http://andrewbtran.github.io/JRN-418/class13/map3.html" frameborder="0" width="100%" height="400" overflow="no" scrolling="no"></iframe>
 
 Pretty cool, right?
 
@@ -193,7 +193,7 @@ Adding all those lines of CSS and HTML looks like this.
 
 The legend is in the bottom right corner.
 
-<iframe src="http://andrewbtran.github.io/JRN-418/class13/map4.html" frameborder="0" width="100%" height="250" overflow="no" scrolling="no"></iframe>
+<iframe src="http://andrewbtran.github.io/JRN-418/class13/map4.html" frameborder="0" width="100%" height="400" overflow="no" scrolling="no"></iframe>
 
 And here's the complete code.
 

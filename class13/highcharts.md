@@ -3,7 +3,7 @@ layout: page
 title: Making a Highcharts.JS chart from scratch
 ---
 
-Highcharts is a JavaScript library for chreating interactive charts.
+Highcharts is a JavaScript library for creating interactive charts.
 
 To fully understand this walkthrough, it's necessary to have a basic understanding of Javascript, html, and css.
 
