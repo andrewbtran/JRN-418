@@ -56,7 +56,10 @@ A wonderful organization dedicated to improving the quality of investigative rep
 * [Using Census Reporter]({{ site.url }}/class13/census_reporter)
 * [Github Redux]({{ site.url }}/class13/github_redux.html)
 * [Build a blog with Jekyll and Github Pages]({{ site.url }}/class13/jekyll)
-
+* [Highcharts.JS walkthrough](http://andrewbtran.github.io/JRN-418/class13/highcharts)
+* [Converting data to JSON format](http://andrewbtran.github.io/JRN-418/class13/json_convert)
+* [Making D3 charts using D3Plus.js](http://andrewbtran.github.io/JRN-418/class14/d3plus)
+* [Leaflet map walkthrough](http://andrewbtran.github.io/JRN-418/class13/leafletjs)
 
 ## Extra links
 
