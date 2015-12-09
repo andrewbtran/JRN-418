@@ -39,8 +39,9 @@ Note: This outline is subject to change; if it does, students will be notified.
 * December 2 - [Charts and maps from scratch]({{ site.url }}/2015/12/02/working-with-apis/)
   * *Draft due*
   * Highcharts.js | D3plus | Leaflet.js
-* December 9 - Introduction to R
+* December 9 - [Introduction to R]({{ site.url }}/2015/12/09/scraping/)
   * *Final due*
+  * R
 * December 16 - 
   * *Revision due*
 
