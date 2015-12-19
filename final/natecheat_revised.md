@@ -1,46 +1,21 @@
 ---
 layout: page
-title: CCSU's SGA spends the most money on students in last five years 
+title: Final Project Data Viz
 ---
 <link rel="stylesheet" href="../table.css">
 *By Nathan Cheatham*
 
-Students on Central Connecticut State University have heard that many clubs on campus have been having issues with their budgets. 
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~Calahan/58.embed"></iframe>
 
-Student Government Association members have been accused of hoarding the money from the student activity fee, and not spending it through club budgets. 
-	
-According to SGA treasurer Brendon Kruh’s budget breakdown, the SGA has spent the most money on clubs this year compared to the last five.
+---
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~Calahan/81.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~Calahan/64.embed"></iframe>
 
-The SGA paid out $418,041 for this year’s student clubs, up from $341,384 which was the lowest spent in the last five years.
+---
 
-Even though SGA has spent the most money on budgets in the last 5 years, factions have been forming within the organization on how to spend the remaining money. 
-	
-The money spent on clubs is a portion of a total $635,000 that is paid by students, according to Scott Hazan, director of Student Activities.
-	
-The remaining money each year is spent at the discretion of SGA, some of it available for clubs who have unanticipated needs, but most of it used on SGA conferences and the spring fling concert.
-
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~Calahan/77.embed"></iframe>
-
-Over the past semester, Computer Club, Karate Club, and Student Nurse’s Association have experienced issues with asking for more money. 
-
-These instances have resulted in negative conversation spreading over the campus and publicity in the school newspaper. Members of the SGA have wrestled with a former treasurer’s outlook of fiscal restriction, said Kruh. 
-
-Kruh explained that leading into last year the former treasurer had influenced the organization to spend less and less and build up a reserve to carry over year to year, leading into a total club budget of less than $350,000. 
-
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~Calahan/87.embed"></iframe>
-
-Kruh said that when he took over he wished to change this and give clubs the money they needed to function. 
-	
-The SGA by-laws lay out that at least 69 percent of the student activity fee must be used for for clubs, this includes 20 percent that must be dispersed as clubs request money through out the year. 
-
-The amount of funds this year exceeds the 69 percent as 65 percent of the total budget was used just for club budgets. 
-
-*Explore the data below to see how club funding has evolved.*
 <div class="rg-container">
 	<div class="rg-header">
-		<div class="rg-hed">Percentage of total budget over five years</div>
+		<div class="rg-hed">Percentage of total budget over 5 years</div>
 		<div class="rg-subhed">Each CCSU club's funding since 2011</div>
 	</div>
 	<div class="rg-content">

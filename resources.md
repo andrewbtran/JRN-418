@@ -60,6 +60,9 @@ A wonderful organization dedicated to improving the quality of investigative rep
 * [Converting data to JSON format](http://andrewbtran.github.io/JRN-418/class13/json_convert)
 * [Making D3 charts using D3Plus.js](http://andrewbtran.github.io/JRN-418/class14/d3plus)
 * [Leaflet map walkthrough](http://andrewbtran.github.io/JRN-418/class13/leafletjs)
+* [Intro to R]({{ site.url }}/class15/introtor)
+* [Making a map with R]({{ site.url }}/class15/leafletviar)
+* [More advanced visualizations with R](http://andrewbtran.github.io/viz-in-r/viz-in-r.html)
 
 ## Extra links
 
